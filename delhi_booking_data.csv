@@ -1,0 +1,1001 @@
+Date,Time,Booking_ID,Booking_Status,Customer_ID,Vehicle_Type,Pickup_Location,Drop_Location,Avg_VTAT,Avg_CTAT,Cancelled_Rides_by_Customer,Reason_for_cancelling_by_Customer,Cancelled_Rides_by_Driver,Reason_for_cancelling_by_Driver,Incomplete_Rides,Incomplete_Rides_Reason,Booking_Value,Ride_Distance,Driver_Ratings,Customer_Rating
+07-02-2025,01:00:00,BK100000,Successful,CUST2000,Prime Sedan,Location 28,Location 46,8.8,10,0,,0,,0,,220.28,17,4.7,4.2
+03-02-2025,06:00:00,BK100001,Successful,CUST2001,Mini,Location 33,Location 16,8.4,11.1,0,,0,,0,,219.89,19.7,4.7,3.3
+01-02-2025,14:00:00,BK100002,Successful,CUST2002,Auto,Location 41,Location 16,9.9,13.4,0,,0,,0,,307.04,22.7,3.6,4.2
+25-02-2025,02:00:00,BK100003,Successful,CUST2003,Prime Sedan,Location 24,Location 33,4.8,14.8,0,,0,,0,,65.67,6.2,3.5,4.3
+03-02-2025,23:00:00,BK100004,Incomplete,CUST2004,eBike,Location 18,Location 42,,,0,,0,,1,Other Issue,,,,
+10-02-2025,07:00:00,BK100005,Successful,CUST2005,Mini,Location 38,Location 43,7.4,10.7,0,,0,,0,,217.68,17.1,3.5,3.7
+03-02-2025,00:00:00,BK100006,Cancelled by Customer,CUST2006,Prime Plus,Location 34,Location 37,,,1,AC is not working,0,,0,,,,,
+05-02-2025,17:00:00,BK100007,Successful,CUST2007,Bike,Location 28,Location 38,4,7.7,0,,0,,0,,53.14,5.6,3.3,4.5
+04-02-2025,05:00:00,BK100008,Successful,CUST2008,Bike,Location 47,Location 1,2.2,8.9,0,,0,,0,,299.35,20,3.2,3.6
+21-02-2025,11:00:00,BK100009,Successful,CUST2009,Bike,Location 19,Location 18,3.7,9.4,0,,0,,0,,284.04,19.2,4.1,4.1
+25-02-2025,06:00:00,BK100010,Successful,CUST2010,Bike,Location 29,Location 41,7.3,8.7,0,,0,,0,,205.52,18.7,3.9,3.3
+06-02-2025,02:00:00,BK100011,Successful,CUST2011,Prime Plus,Location 38,Location 15,9.6,11.5,0,,0,,0,,116.58,8.9,4.7,3
+04-02-2025,11:00:00,BK100012,Successful,CUST2012,Auto,Location 46,Location 22,7.6,9.8,0,,0,,0,,71.26,6.7,4.2,3.4
+20-02-2025,02:00:00,BK100013,Cancelled by Driver,CUST2013,Bike,Location 22,Location 25,,,0,,1,Customer related issue,0,,,,,
+03-02-2025,13:00:00,BK100014,Successful,CUST2014,Mini,Location 13,Location 31,4.9,9.2,0,,0,,0,,203.39,21.5,3.5,3.7
+19-02-2025,00:00:00,BK100015,Cancelled by Customer,CUST2015,Auto,Location 48,Location 48,,,1,Driver asked to cancel,0,,0,,,,,
+25-02-2025,18:00:00,BK100016,Cancelled by Driver,CUST2016,Prime Plus,Location 7,Location 49,,,0,,1,Personal & Car related issues,0,,,,,
+04-02-2025,19:00:00,BK100017,Successful,CUST2017,eBike,Location 26,Location 20,2.5,6.5,0,,0,,0,,63.94,7,4.5,3.7
+13-02-2025,04:00:00,BK100018,Cancelled by Customer,CUST2018,Prime Sedan,Location 40,Location 26,,,1,AC is not working,0,,0,,,,,
+18-02-2025,14:00:00,BK100019,Successful,CUST2019,Prime Sedan,Location 31,Location 4,7.4,5.9,0,,0,,0,,145.69,13.8,4.6,4.4
+16-02-2025,23:00:00,BK100020,Successful,CUST2020,Bike,Location 13,Location 18,2.3,9.7,0,,0,,0,,130.9,16.2,3.5,3.3
+13-02-2025,20:00:00,BK100021,Successful,CUST2021,eBike,Location 45,Location 14,7.1,10.4,0,,0,,0,,221.51,20.6,4.8,3.2
+13-02-2025,15:00:00,BK100022,Cancelled by Driver,CUST2022,Mini,Location 48,Location 12,,,0,,1,The customer was coughing/sick,0,,,,,
+06-02-2025,20:00:00,BK100023,Successful,CUST2023,eBike,Location 30,Location 22,4.3,6.7,0,,0,,0,,317.92,21.2,4.6,4.5
+01-02-2025,06:00:00,BK100024,Successful,CUST2024,Prime Plus,Location 15,Location 26,5.1,10.1,0,,0,,0,,135.9,12.1,4.3,4.4
+26-02-2025,03:00:00,BK100025,Cancelled by Driver,CUST2025,eBike,Location 39,Location 45,,,0,,1,Customer related issue,0,,,,,
+16-02-2025,17:00:00,BK100026,Successful,CUST2026,Prime Sedan,Location 50,Location 7,5.9,6.7,0,,0,,0,,157.55,18.9,3.1,4.9
+04-02-2025,09:00:00,BK100027,Successful,CUST2027,eBike,Location 25,Location 22,3.4,12.3,0,,0,,0,,211.04,14.4,4.5,5
+20-02-2025,15:00:00,BK100028,Successful,CUST2028,Auto,Location 13,Location 45,2.9,8.3,0,,0,,0,,129.15,13,4.9,4.2
+06-02-2025,09:00:00,BK100029,Successful,CUST2029,Prime Sedan,Location 26,Location 33,4.4,14.1,0,,0,,0,,103.08,7.1,4,3.2
+17-02-2025,04:00:00,BK100030,Cancelled by Driver,CUST2030,Bike,Location 39,Location 44,,,0,,1,Customer related issue,0,,,,,
+24-02-2025,11:00:00,BK100031,Successful,CUST2031,eBike,Location 25,Location 25,4.4,11,0,,0,,0,,229.99,19,4.5,4.5
+24-02-2025,09:00:00,BK100032,Successful,CUST2032,Prime Plus,Location 45,Location 43,5.6,11.1,0,,0,,0,,71.31,8.6,4.1,4.3
+16-02-2025,08:00:00,BK100033,Successful,CUST2033,Mini,Location 48,Location 4,8.6,8.8,0,,0,,0,,139.92,13,3.6,4.2
+20-02-2025,22:00:00,BK100034,Successful,CUST2034,Mini,Location 20,Location 11,9.6,8.1,0,,0,,0,,154.08,16,3.3,4.7
+16-02-2025,03:00:00,BK100035,Successful,CUST2035,eBike,Location 24,Location 35,4.7,6.4,0,,0,,0,,108.34,7.5,4.6,3
+01-02-2025,20:00:00,BK100036,Successful,CUST2036,eBike,Location 37,Location 30,4.6,10,0,,0,,0,,239.31,24.6,4.6,3.8
+24-02-2025,09:00:00,BK100037,Successful,CUST2037,Prime Plus,Location 22,Location 29,5.9,13.1,0,,0,,0,,294.29,21.8,3.5,3.1
+03-02-2025,21:00:00,BK100038,Successful,CUST2038,Prime Plus,Location 12,Location 26,9.6,12.4,0,,0,,0,,111.55,11.6,3.2,4.1
+14-02-2025,17:00:00,BK100039,Cancelled by Driver,CUST2039,eBike,Location 2,Location 34,,,0,,1,The customer was coughing/sick,0,,,,,
+24-02-2025,19:00:00,BK100040,Successful,CUST2040,Auto,Location 32,Location 39,4.8,9.1,0,,0,,0,,264.78,19.7,4.6,3.6
+04-02-2025,03:00:00,BK100041,Successful,CUST2041,Auto,Location 38,Location 7,8.4,5.4,0,,0,,0,,84.08,7.1,4.3,5
+27-02-2025,06:00:00,BK100042,Cancelled by Customer,CUST2042,eBike,Location 43,Location 1,,,1,Driver asked to cancel,0,,0,,,,,
+18-02-2025,00:00:00,BK100043,Successful,CUST2043,Prime Plus,Location 50,Location 49,3.5,5.2,0,,0,,0,,117.34,8.1,3.9,4.4
+10-02-2025,18:00:00,BK100044,Cancelled by Customer,CUST2044,Prime Sedan,Location 12,Location 44,,,1,Change of plans,0,,0,,,,,
+22-02-2025,12:00:00,BK100045,Successful,CUST2045,Bike,Location 35,Location 50,9.6,7.7,0,,0,,0,,29.28,3.5,4.2,4.3
+26-02-2025,00:00:00,BK100046,Successful,CUST2046,Mini,Location 39,Location 35,4.7,10.8,0,,0,,0,,135.91,13.3,4.9,4.9
+24-02-2025,07:00:00,BK100047,Cancelled by Customer,CUST2047,Mini,Location 45,Location 32,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+26-02-2025,11:00:00,BK100048,Successful,CUST2048,Prime Plus,Location 9,Location 23,4.6,8.2,0,,0,,0,,320.62,21.6,4,3.4
+26-02-2025,19:00:00,BK100049,Incomplete,CUST2049,Mini,Location 40,Location 19,,,0,,0,,1,Other Issue,,,,
+19-02-2025,03:00:00,BK100050,Incomplete,CUST2050,Mini,Location 18,Location 1,,,0,,0,,1,Other Issue,,,,
+27-02-2025,00:00:00,BK100051,Cancelled by Driver,CUST2051,Bike,Location 4,Location 18,,,0,,1,The customer was coughing/sick,0,,,,,
+12-02-2025,02:00:00,BK100052,Cancelled by Customer,CUST2052,eBike,Location 41,Location 40,,,1,Driver asked to cancel,0,,0,,,,,
+21-02-2025,10:00:00,BK100053,Successful,CUST2053,Auto,Location 45,Location 4,5.7,13.1,0,,0,,0,,214.66,20.1,4.4,5
+23-02-2025,06:00:00,BK100054,Successful,CUST2054,Prime Plus,Location 13,Location 17,9.6,12.8,0,,0,,0,,183.17,21.4,3.7,3.8
+18-02-2025,02:00:00,BK100055,Cancelled by Driver,CUST2055,Auto,Location 2,Location 38,,,0,,1,Personal & Car related issues,0,,,,,
+11-02-2025,17:00:00,BK100056,Cancelled by Customer,CUST2056,Prime Plus,Location 21,Location 21,,,1,Driver asked to cancel,0,,0,,,,,
+15-02-2025,11:00:00,BK100057,Successful,CUST2057,Mini,Location 34,Location 28,7.6,13.6,0,,0,,0,,112.84,10.1,3.5,4.9
+01-02-2025,21:00:00,BK100058,Successful,CUST2058,Auto,Location 45,Location 13,3.3,12.2,0,,0,,0,,214.71,15.8,3.6,4.5
+12-02-2025,20:00:00,BK100059,Cancelled by Driver,CUST2059,Prime Plus,Location 49,Location 9,,,0,,1,More than permitted people in there,0,,,,,
+07-02-2025,19:00:00,BK100060,Successful,CUST2060,Auto,Location 42,Location 5,3.4,12.7,0,,0,,0,,183.33,16.4,4.9,3.3
+14-02-2025,19:00:00,BK100061,Cancelled by Customer,CUST2061,Prime Plus,Location 41,Location 12,,,1,AC is not working,0,,0,,,,,
+04-02-2025,12:00:00,BK100062,Cancelled by Customer,CUST2062,Mini,Location 5,Location 4,,,1,AC is not working,0,,0,,,,,
+25-02-2025,03:00:00,BK100063,Successful,CUST2063,Auto,Location 30,Location 23,3.6,14.6,0,,0,,0,,258.12,18.5,4.8,3.9
+26-02-2025,11:00:00,BK100064,Successful,CUST2064,Mini,Location 7,Location 21,9.8,13.6,0,,0,,0,,81.76,9.1,4.4,4.5
+10-02-2025,18:00:00,BK100065,Cancelled by Customer,CUST2065,Prime Plus,Location 47,Location 37,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+05-02-2025,13:00:00,BK100066,Successful,CUST2066,Mini,Location 49,Location 11,5.6,8.4,0,,0,,0,,175.86,14.4,4.9,3.8
+24-02-2025,06:00:00,BK100067,Successful,CUST2067,eBike,Location 27,Location 37,2.9,7.4,0,,0,,0,,205.82,17.1,3.8,3.8
+25-02-2025,07:00:00,BK100068,Successful,CUST2068,eBike,Location 33,Location 13,8.2,13.1,0,,0,,0,,298.22,21.1,4.7,4.5
+27-02-2025,08:00:00,BK100069,Cancelled by Driver,CUST2069,Auto,Location 29,Location 16,,,0,,1,More than permitted people in there,0,,,,,
+24-02-2025,05:00:00,BK100070,Successful,CUST2070,Mini,Location 39,Location 9,7.7,6,0,,0,,0,,98.52,7.4,3.7,4
+09-02-2025,10:00:00,BK100071,Successful,CUST2071,Mini,Location 26,Location 36,2.7,10.6,0,,0,,0,,186.84,17.1,4.9,4.4
+09-02-2025,16:00:00,BK100072,Successful,CUST2072,Mini,Location 18,Location 36,5.7,14,0,,0,,0,,252.2,21.7,3.3,3.4
+21-02-2025,11:00:00,BK100073,Cancelled by Customer,CUST2073,Prime Plus,Location 49,Location 19,,,1,Wrong Address,0,,0,,,,,
+01-02-2025,22:00:00,BK100074,Cancelled by Customer,CUST2074,Prime Plus,Location 26,Location 29,,,1,Wrong Address,0,,0,,,,,
+04-02-2025,01:00:00,BK100075,Successful,CUST2075,Prime Sedan,Location 49,Location 34,4.6,7.7,0,,0,,0,,339.76,24,4.3,3.3
+21-02-2025,11:00:00,BK100076,Cancelled by Customer,CUST2076,Prime Plus,Location 48,Location 14,,,1,Change of plans,0,,0,,,,,
+18-02-2025,02:00:00,BK100077,Successful,CUST2077,Prime Sedan,Location 32,Location 3,6.2,9.3,0,,0,,0,,151.67,15.8,4.3,3.5
+23-02-2025,17:00:00,BK100078,Successful,CUST2078,Mini,Location 32,Location 25,5.1,9.3,0,,0,,0,,113.87,14,4.1,3.4
+09-02-2025,16:00:00,BK100079,Successful,CUST2079,Mini,Location 32,Location 45,9.1,5.8,0,,0,,0,,174.9,18.9,4.6,3.4
+10-02-2025,22:00:00,BK100080,Successful,CUST2080,Prime Sedan,Location 41,Location 34,4.1,5.2,0,,0,,0,,104.62,11.7,4.3,3.2
+14-02-2025,22:00:00,BK100081,Successful,CUST2081,Auto,Location 4,Location 9,2.4,10.3,0,,0,,0,,135.62,14.8,3.1,4.6
+06-02-2025,05:00:00,BK100082,Successful,CUST2082,eBike,Location 48,Location 30,4.7,8.7,0,,0,,0,,61.93,5.4,3.9,4.8
+04-02-2025,22:00:00,BK100083,Successful,CUST2083,eBike,Location 9,Location 42,4.8,8.7,0,,0,,0,,74.82,8.6,3.9,3.6
+19-02-2025,23:00:00,BK100084,Successful,CUST2084,eBike,Location 15,Location 47,9.8,6.2,0,,0,,0,,122.04,11.8,3.9,3.7
+23-02-2025,14:00:00,BK100085,Successful,CUST2085,eBike,Location 38,Location 10,8.8,12,0,,0,,0,,233.9,24.2,3,4.6
+26-02-2025,09:00:00,BK100086,Successful,CUST2086,Prime Sedan,Location 41,Location 9,8.1,6.8,0,,0,,0,,142.53,12,3.8,3.3
+05-02-2025,17:00:00,BK100087,Cancelled by Driver,CUST2087,Prime Sedan,Location 48,Location 19,,,0,,1,Customer related issue,0,,,,,
+21-02-2025,20:00:00,BK100088,Incomplete,CUST2088,Bike,Location 5,Location 11,,,0,,0,,1,Other Issue,,,,
+13-02-2025,03:00:00,BK100089,Successful,CUST2089,Auto,Location 30,Location 12,8.9,9.2,0,,0,,0,,93.99,9.8,4.9,3.1
+07-02-2025,06:00:00,BK100090,Successful,CUST2090,Bike,Location 19,Location 12,5.7,11.8,0,,0,,0,,162.01,18.2,4.5,4.1
+16-02-2025,20:00:00,BK100091,Successful,CUST2091,eBike,Location 11,Location 1,9.6,5.4,0,,0,,0,,183.84,22.1,4,5
+04-02-2025,19:00:00,BK100092,Successful,CUST2092,Bike,Location 28,Location 18,9.3,10.9,0,,0,,0,,173.26,19.5,4,3.3
+14-02-2025,11:00:00,BK100093,Successful,CUST2093,Mini,Location 3,Location 31,2.6,7.2,0,,0,,0,,162.64,13.2,3.3,4.2
+11-02-2025,23:00:00,BK100094,Successful,CUST2094,eBike,Location 10,Location 25,6.9,14.8,0,,0,,0,,206.78,17.2,3.3,4.6
+19-02-2025,15:00:00,BK100095,Incomplete,CUST2095,Bike,Location 25,Location 24,,,0,,0,,1,Vehicle Breakdown,,,,
+15-02-2025,23:00:00,BK100096,Successful,CUST2096,Prime Plus,Location 4,Location 30,8.4,10.8,0,,0,,0,,318.57,24,3,4.6
+06-02-2025,02:00:00,BK100097,Successful,CUST2097,Bike,Location 11,Location 24,9.5,6.3,0,,0,,0,,134.97,13,4.7,4.8
+18-02-2025,18:00:00,BK100098,Successful,CUST2098,Mini,Location 16,Location 50,9.1,14.4,0,,0,,0,,177.82,14.5,3,3.6
+13-02-2025,20:00:00,BK100099,Successful,CUST2099,Bike,Location 44,Location 20,8.9,14.9,0,,0,,0,,164.06,11.3,4.4,4.1
+20-02-2025,15:00:00,BK100100,Successful,CUST2100,Auto,Location 42,Location 4,3.3,13.8,0,,0,,0,,210.96,14.8,4.7,3.8
+18-02-2025,02:00:00,BK100101,Successful,CUST2101,Mini,Location 49,Location 50,3.4,10.4,0,,0,,0,,189.74,19.6,4.9,3.8
+03-02-2025,12:00:00,BK100102,Successful,CUST2102,Prime Sedan,Location 22,Location 20,5.2,7.3,0,,0,,0,,191.45,21,3.1,4.9
+03-02-2025,00:00:00,BK100103,Successful,CUST2103,Auto,Location 1,Location 42,3.6,13.1,0,,0,,0,,28.25,2.3,3.5,3.2
+20-02-2025,02:00:00,BK100104,Cancelled by Customer,CUST2104,Auto,Location 35,Location 16,,,1,Wrong Address,0,,0,,,,,
+25-02-2025,11:00:00,BK100105,Incomplete,CUST2105,Prime Plus,Location 11,Location 34,,,0,,0,,1,Vehicle Breakdown,,,,
+19-02-2025,12:00:00,BK100106,Successful,CUST2106,Prime Plus,Location 48,Location 11,5,12,0,,0,,0,,46.68,4.7,3.3,4.6
+05-02-2025,03:00:00,BK100107,Successful,CUST2107,Prime Sedan,Location 2,Location 38,3.1,8.4,0,,0,,0,,34.22,2.3,3.2,3.2
+07-02-2025,17:00:00,BK100108,Successful,CUST2108,Prime Plus,Location 4,Location 11,5.7,7.2,0,,0,,0,,44.92,3,4.7,4.8
+03-02-2025,17:00:00,BK100109,Successful,CUST2109,Prime Plus,Location 33,Location 47,8.8,6.2,0,,0,,0,,214.84,14.6,4.4,5
+21-02-2025,23:00:00,BK100110,Cancelled by Customer,CUST2110,Prime Sedan,Location 44,Location 28,,,1,Driver asked to cancel,0,,0,,,,,
+25-02-2025,13:00:00,BK100111,Cancelled by Customer,CUST2111,Auto,Location 1,Location 16,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+05-02-2025,06:00:00,BK100112,Cancelled by Customer,CUST2112,Auto,Location 31,Location 45,,,1,Wrong Address,0,,0,,,,,
+26-02-2025,17:00:00,BK100113,Successful,CUST2113,Auto,Location 23,Location 13,4.3,7.1,0,,0,,0,,256.5,17.3,3.5,3.3
+21-02-2025,18:00:00,BK100114,Cancelled by Customer,CUST2114,Mini,Location 44,Location 7,,,1,AC is not working,0,,0,,,,,
+09-02-2025,02:00:00,BK100115,Incomplete,CUST2115,eBike,Location 6,Location 47,,,0,,0,,1,Vehicle Breakdown,,,,
+02-02-2025,05:00:00,BK100116,Cancelled by Customer,CUST2116,Mini,Location 44,Location 16,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+12-02-2025,21:00:00,BK100117,Successful,CUST2117,Bike,Location 35,Location 6,7.4,10.1,0,,0,,0,,113.42,12.2,4.8,4.8
+04-02-2025,22:00:00,BK100118,Cancelled by Driver,CUST2118,Mini,Location 4,Location 19,,,0,,1,More than permitted people in there,0,,,,,
+06-02-2025,07:00:00,BK100119,Cancelled by Driver,CUST2119,Prime Plus,Location 45,Location 39,,,0,,1,Personal & Car related issues,0,,,,,
+08-02-2025,04:00:00,BK100120,Successful,CUST2120,Auto,Location 14,Location 22,4.4,5.1,0,,0,,0,,91.75,7.2,4,3.5
+03-02-2025,21:00:00,BK100121,Successful,CUST2121,Auto,Location 45,Location 11,5.4,12.8,0,,0,,0,,82.05,6.6,4.5,3.5
+19-02-2025,05:00:00,BK100122,Successful,CUST2122,Auto,Location 3,Location 24,4.5,6.8,0,,0,,0,,32.34,2.5,4,4.2
+07-02-2025,06:00:00,BK100123,Cancelled by Customer,CUST2123,Prime Plus,Location 6,Location 39,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+26-02-2025,22:00:00,BK100124,Successful,CUST2124,eBike,Location 38,Location 26,6.1,6.4,0,,0,,0,,264.1,19.4,4.3,4.8
+09-02-2025,15:00:00,BK100125,Successful,CUST2125,Mini,Location 36,Location 49,2.2,13.1,0,,0,,0,,145.03,17.9,3.3,3.7
+06-02-2025,07:00:00,BK100126,Successful,CUST2126,Prime Sedan,Location 12,Location 38,4.6,10.4,0,,0,,0,,98.13,8.4,4.9,4.9
+16-02-2025,19:00:00,BK100127,Successful,CUST2127,Mini,Location 25,Location 21,4.6,8.2,0,,0,,0,,237.25,18.3,4.7,3.5
+07-02-2025,01:00:00,BK100128,Successful,CUST2128,Prime Plus,Location 21,Location 26,2.8,5.2,0,,0,,0,,190.18,23,3.7,4
+25-02-2025,05:00:00,BK100129,Successful,CUST2129,Prime Plus,Location 49,Location 29,5.1,8.1,0,,0,,0,,319.23,23.3,3.5,4.2
+19-02-2025,02:00:00,BK100130,Successful,CUST2130,Mini,Location 46,Location 32,10,10.5,0,,0,,0,,92.75,8.7,4.4,4
+16-02-2025,23:00:00,BK100131,Cancelled by Customer,CUST2131,Prime Plus,Location 10,Location 17,,,1,Wrong Address,0,,0,,,,,
+10-02-2025,19:00:00,BK100132,Cancelled by Customer,CUST2132,Bike,Location 19,Location 50,,,1,AC is not working,0,,0,,,,,
+08-02-2025,02:00:00,BK100133,Cancelled by Customer,CUST2133,Prime Plus,Location 30,Location 25,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+16-02-2025,20:00:00,BK100134,Successful,CUST2134,Prime Plus,Location 48,Location 10,5.3,14.7,0,,0,,0,,59.09,4,3.7,4
+15-02-2025,00:00:00,BK100135,Cancelled by Driver,CUST2135,eBike,Location 17,Location 28,,,0,,1,The customer was coughing/sick,0,,,,,
+11-02-2025,17:00:00,BK100136,Incomplete,CUST2136,Prime Sedan,Location 24,Location 46,,,0,,0,,1,Vehicle Breakdown,,,,
+12-02-2025,21:00:00,BK100137,Successful,CUST2137,eBike,Location 34,Location 45,5.8,11,0,,0,,0,,65.94,4.6,3.2,3.9
+12-02-2025,05:00:00,BK100138,Incomplete,CUST2138,Prime Plus,Location 2,Location 11,,,0,,0,,1,Other Issue,,,,
+18-02-2025,11:00:00,BK100139,Successful,CUST2139,Mini,Location 32,Location 13,7.8,8.8,0,,0,,0,,131.86,14.4,4.6,5
+12-02-2025,11:00:00,BK100140,Successful,CUST2140,Prime Plus,Location 18,Location 25,4.3,7.1,0,,0,,0,,133.03,12.7,3.1,4.7
+22-02-2025,13:00:00,BK100141,Successful,CUST2141,eBike,Location 9,Location 43,3.6,11.4,0,,0,,0,,98.59,11.6,3.2,3.3
+27-02-2025,16:00:00,BK100142,Successful,CUST2142,eBike,Location 15,Location 33,4.5,8.4,0,,0,,0,,33.31,3.5,4.3,3.5
+05-02-2025,02:00:00,BK100143,Incomplete,CUST2143,Prime Plus,Location 4,Location 10,,,0,,0,,1,Other Issue,,,,
+16-02-2025,07:00:00,BK100144,Incomplete,CUST2144,Mini,Location 30,Location 49,,,0,,0,,1,Vehicle Breakdown,,,,
+07-02-2025,09:00:00,BK100145,Cancelled by Driver,CUST2145,Prime Plus,Location 18,Location 48,,,0,,1,More than permitted people in there,0,,,,,
+01-02-2025,16:00:00,BK100146,Successful,CUST2146,Bike,Location 29,Location 43,3.7,11.7,0,,0,,0,,253.59,24.3,3.5,4.4
+12-02-2025,22:00:00,BK100147,Cancelled by Customer,CUST2147,Bike,Location 3,Location 30,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+24-02-2025,19:00:00,BK100148,Cancelled by Customer,CUST2148,Prime Plus,Location 2,Location 22,,,1,Change of plans,0,,0,,,,,
+10-02-2025,10:00:00,BK100149,Cancelled by Driver,CUST2149,Prime Sedan,Location 48,Location 42,,,0,,1,More than permitted people in there,0,,,,,
+09-02-2025,04:00:00,BK100150,Successful,CUST2150,Auto,Location 3,Location 36,9.8,10.9,0,,0,,0,,238.44,18.1,3.7,4
+01-02-2025,18:00:00,BK100151,Successful,CUST2151,Bike,Location 24,Location 39,2,6.6,0,,0,,0,,113.55,11.6,3.4,3.3
+05-02-2025,17:00:00,BK100152,Incomplete,CUST2152,Prime Sedan,Location 9,Location 6,,,0,,0,,1,Vehicle Breakdown,,,,
+08-02-2025,23:00:00,BK100153,Cancelled by Customer,CUST2153,Auto,Location 28,Location 50,,,1,Change of plans,0,,0,,,,,
+06-02-2025,08:00:00,BK100154,Successful,CUST2154,Bike,Location 4,Location 8,6.6,5.8,0,,0,,0,,148.7,16.7,3.2,3.5
+02-02-2025,20:00:00,BK100155,Successful,CUST2155,Mini,Location 45,Location 27,5.9,5.7,0,,0,,0,,118.63,8.8,4.7,3.4
+09-02-2025,05:00:00,BK100156,Successful,CUST2156,Auto,Location 22,Location 22,3.2,9.3,0,,0,,0,,40.93,3.7,3.8,4
+05-02-2025,01:00:00,BK100157,Successful,CUST2157,Bike,Location 20,Location 35,9.6,10.1,0,,0,,0,,293.94,20.7,3.5,3.9
+14-02-2025,18:00:00,BK100158,Successful,CUST2158,Prime Plus,Location 19,Location 36,8.8,8.3,0,,0,,0,,93.91,11.2,3.9,4.9
+07-02-2025,06:00:00,BK100159,Successful,CUST2159,Mini,Location 9,Location 48,8.1,12.9,0,,0,,0,,31.88,3.6,3.2,3.9
+17-02-2025,18:00:00,BK100160,Successful,CUST2160,Bike,Location 47,Location 23,9.1,13.1,0,,0,,0,,279.87,21.1,3.2,3.4
+08-02-2025,08:00:00,BK100161,Successful,CUST2161,Auto,Location 43,Location 37,6.7,6.7,0,,0,,0,,179.73,18.3,4.6,3.6
+03-02-2025,00:00:00,BK100162,Successful,CUST2162,Mini,Location 24,Location 19,4.8,11.5,0,,0,,0,,102.66,12.8,3.1,3.7
+08-02-2025,10:00:00,BK100163,Successful,CUST2163,eBike,Location 41,Location 34,9.6,12.9,0,,0,,0,,328.51,24.5,4.8,3.6
+09-02-2025,15:00:00,BK100164,Successful,CUST2164,Prime Sedan,Location 50,Location 40,5.8,14.4,0,,0,,0,,249.97,21.6,3.1,3.9
+18-02-2025,01:00:00,BK100165,Cancelled by Customer,CUST2165,Mini,Location 50,Location 48,,,1,Driver asked to cancel,0,,0,,,,,
+14-02-2025,12:00:00,BK100166,Successful,CUST2166,Mini,Location 42,Location 12,6.1,7.9,0,,0,,0,,90.14,10.5,4.4,3.2
+05-02-2025,14:00:00,BK100167,Successful,CUST2167,Auto,Location 39,Location 4,9.3,10.4,0,,0,,0,,173.17,12.9,3.7,4.8
+04-02-2025,06:00:00,BK100168,Successful,CUST2168,Prime Plus,Location 22,Location 40,3.1,10.1,0,,0,,0,,184.03,17.9,4.9,3.5
+03-02-2025,15:00:00,BK100169,Cancelled by Driver,CUST2169,Auto,Location 26,Location 43,,,0,,1,Personal & Car related issues,0,,,,,
+14-02-2025,01:00:00,BK100170,Successful,CUST2170,Auto,Location 15,Location 8,3.4,7.4,0,,0,,0,,142.86,10.9,3.7,4.9
+11-02-2025,22:00:00,BK100171,Successful,CUST2171,Mini,Location 19,Location 13,4.3,13.5,0,,0,,0,,96.39,8.5,4.2,3.4
+08-02-2025,06:00:00,BK100172,Cancelled by Customer,CUST2172,Prime Sedan,Location 8,Location 46,,,1,Driver asked to cancel,0,,0,,,,,
+03-02-2025,10:00:00,BK100173,Successful,CUST2173,eBike,Location 3,Location 39,7.6,9.3,0,,0,,0,,78.64,6.2,4.6,4.1
+17-02-2025,05:00:00,BK100174,Cancelled by Customer,CUST2174,eBike,Location 30,Location 6,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+09-02-2025,23:00:00,BK100175,Successful,CUST2175,Prime Sedan,Location 8,Location 29,2.1,9,0,,0,,0,,177.28,13.1,5,3.6
+12-02-2025,22:00:00,BK100176,Successful,CUST2176,Prime Plus,Location 38,Location 10,3.7,9.2,0,,0,,0,,125.27,14.5,4.1,4.8
+04-02-2025,15:00:00,BK100177,Incomplete,CUST2177,Mini,Location 11,Location 4,,,0,,0,,1,Vehicle Breakdown,,,,
+16-02-2025,15:00:00,BK100178,Successful,CUST2178,Bike,Location 18,Location 22,9.5,9.2,0,,0,,0,,162.95,17.7,3.1,4.6
+05-02-2025,20:00:00,BK100179,Successful,CUST2179,Prime Sedan,Location 47,Location 35,3.2,11,0,,0,,0,,324.82,24.4,3.1,3.9
+08-02-2025,17:00:00,BK100180,Cancelled by Customer,CUST2180,Mini,Location 24,Location 20,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+19-02-2025,10:00:00,BK100181,Cancelled by Customer,CUST2181,Mini,Location 29,Location 42,,,1,Wrong Address,0,,0,,,,,
+07-02-2025,19:00:00,BK100182,Cancelled by Driver,CUST2182,Prime Sedan,Location 6,Location 17,,,0,,1,Customer related issue,0,,,,,
+23-02-2025,17:00:00,BK100183,Successful,CUST2183,Prime Plus,Location 1,Location 21,2.1,13.2,0,,0,,0,,83.27,8.1,3.4,4.8
+10-02-2025,18:00:00,BK100184,Cancelled by Customer,CUST2184,eBike,Location 33,Location 42,,,1,Driver asked to cancel,0,,0,,,,,
+11-02-2025,21:00:00,BK100185,Successful,CUST2185,Bike,Location 22,Location 48,4.6,14.4,0,,0,,0,,164.41,17.3,4.1,4.2
+04-02-2025,01:00:00,BK100186,Successful,CUST2186,Prime Sedan,Location 25,Location 3,4,13.3,0,,0,,0,,133.89,12.5,3.8,4.7
+21-02-2025,14:00:00,BK100187,Successful,CUST2187,Prime Sedan,Location 26,Location 16,9,7.3,0,,0,,0,,196.49,20.1,4.3,3.9
+25-02-2025,10:00:00,BK100188,Cancelled by Customer,CUST2188,eBike,Location 10,Location 24,,,1,AC is not working,0,,0,,,,,
+05-02-2025,00:00:00,BK100189,Successful,CUST2189,Prime Sedan,Location 46,Location 10,6.1,11.2,0,,0,,0,,187.11,15,4.8,4.6
+05-02-2025,18:00:00,BK100190,Cancelled by Customer,CUST2190,Bike,Location 41,Location 15,,,1,AC is not working,0,,0,,,,,
+03-02-2025,13:00:00,BK100191,Successful,CUST2191,Bike,Location 12,Location 26,9.6,10,0,,0,,0,,32.33,4,4.8,3.2
+11-02-2025,22:00:00,BK100192,Successful,CUST2192,Prime Sedan,Location 16,Location 38,2.2,8.3,0,,0,,0,,152.18,16.2,3.9,4.4
+15-02-2025,06:00:00,BK100193,Incomplete,CUST2193,Prime Sedan,Location 21,Location 18,,,0,,0,,1,Vehicle Breakdown,,,,
+01-02-2025,14:00:00,BK100194,Cancelled by Customer,CUST2194,Prime Plus,Location 17,Location 21,,,1,Wrong Address,0,,0,,,,,
+10-02-2025,04:00:00,BK100195,Successful,CUST2195,Prime Plus,Location 46,Location 44,9,7.3,0,,0,,0,,222.31,16.7,4.3,3.6
+08-02-2025,10:00:00,BK100196,Successful,CUST2196,Bike,Location 16,Location 3,2.6,6.2,0,,0,,0,,195.02,24.1,4.9,3.6
+06-02-2025,07:00:00,BK100197,Incomplete,CUST2197,Prime Plus,Location 30,Location 29,,,0,,0,,1,Customer Demand,,,,
+10-02-2025,01:00:00,BK100198,Successful,CUST2198,Bike,Location 32,Location 3,9,8.2,0,,0,,0,,290.41,20.7,4.7,4.4
+21-02-2025,23:00:00,BK100199,Successful,CUST2199,Auto,Location 42,Location 38,7.5,14.9,0,,0,,0,,271.97,22.5,3.9,3.8
+26-02-2025,06:00:00,BK100200,Successful,CUST2200,Auto,Location 25,Location 40,3.9,8.8,0,,0,,0,,120.25,15,3.8,3
+22-02-2025,11:00:00,BK100201,Cancelled by Customer,CUST2201,Mini,Location 25,Location 2,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+22-02-2025,15:00:00,BK100202,Successful,CUST2202,Prime Plus,Location 44,Location 1,9.1,6.7,0,,0,,0,,70.17,5.9,4.9,4.8
+04-02-2025,05:00:00,BK100203,Successful,CUST2203,Mini,Location 24,Location 22,5.8,11,0,,0,,0,,198.85,20.6,3,4.5
+23-02-2025,02:00:00,BK100204,Cancelled by Driver,CUST2204,Prime Plus,Location 6,Location 18,,,0,,1,More than permitted people in there,0,,,,,
+24-02-2025,20:00:00,BK100205,Successful,CUST2205,Bike,Location 9,Location 2,3.3,5.5,0,,0,,0,,189.18,13.7,4.7,5
+20-02-2025,11:00:00,BK100206,Incomplete,CUST2206,Auto,Location 7,Location 42,,,0,,0,,1,Other Issue,,,,
+10-02-2025,12:00:00,BK100207,Cancelled by Customer,CUST2207,Prime Plus,Location 24,Location 30,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+05-02-2025,06:00:00,BK100208,Successful,CUST2208,Mini,Location 32,Location 33,5.9,10.6,0,,0,,0,,172.52,11.7,4.4,4.5
+23-02-2025,04:00:00,BK100209,Successful,CUST2209,Mini,Location 45,Location 26,3.2,9.6,0,,0,,0,,264.51,20,3.5,4.7
+26-02-2025,18:00:00,BK100210,Cancelled by Customer,CUST2210,Mini,Location 41,Location 21,,,1,Wrong Address,0,,0,,,,,
+10-02-2025,19:00:00,BK100211,Successful,CUST2211,Bike,Location 23,Location 11,8.1,5.1,0,,0,,0,,62.95,4.9,3.3,3.8
+13-02-2025,07:00:00,BK100212,Cancelled by Driver,CUST2212,eBike,Location 48,Location 45,,,0,,1,More than permitted people in there,0,,,,,
+16-02-2025,17:00:00,BK100213,Successful,CUST2213,eBike,Location 7,Location 40,3.2,8.8,0,,0,,0,,94.84,8.3,3.8,4.8
+07-02-2025,10:00:00,BK100214,Successful,CUST2214,Auto,Location 37,Location 28,2.8,14.4,0,,0,,0,,65.97,4.7,3.8,3.8
+25-02-2025,23:00:00,BK100215,Successful,CUST2215,eBike,Location 42,Location 19,8.3,14.7,0,,0,,0,,194.76,20.1,4.9,3.9
+12-02-2025,15:00:00,BK100216,Cancelled by Customer,CUST2216,Mini,Location 22,Location 11,,,1,Change of plans,0,,0,,,,,
+02-02-2025,16:00:00,BK100217,Cancelled by Driver,CUST2217,Mini,Location 13,Location 9,,,0,,1,Customer related issue,0,,,,,
+22-02-2025,07:00:00,BK100218,Successful,CUST2218,Prime Sedan,Location 23,Location 37,3.6,5.4,0,,0,,0,,73.66,7.2,4.2,3.9
+04-02-2025,03:00:00,BK100219,Cancelled by Customer,CUST2219,Bike,Location 3,Location 25,,,1,Wrong Address,0,,0,,,,,
+02-02-2025,09:00:00,BK100220,Successful,CUST2220,eBike,Location 11,Location 20,5.7,11,0,,0,,0,,275.6,23.4,4.7,3.9
+16-02-2025,05:00:00,BK100221,Successful,CUST2221,Auto,Location 10,Location 10,5.7,11.3,0,,0,,0,,187.49,12.7,4.4,3.1
+04-02-2025,07:00:00,BK100222,Cancelled by Driver,CUST2222,Mini,Location 2,Location 14,,,0,,1,Customer related issue,0,,,,,
+17-02-2025,19:00:00,BK100223,Cancelled by Customer,CUST2223,Prime Sedan,Location 16,Location 5,,,1,Wrong Address,0,,0,,,,,
+04-02-2025,08:00:00,BK100224,Successful,CUST2224,Bike,Location 32,Location 14,7.3,7.2,0,,0,,0,,42.19,3.9,4.5,4.8
+09-02-2025,16:00:00,BK100225,Successful,CUST2225,Mini,Location 22,Location 48,8,10.6,0,,0,,0,,66.59,5,4.5,4.8
+21-02-2025,10:00:00,BK100226,Cancelled by Customer,CUST2226,eBike,Location 10,Location 49,,,1,Driver asked to cancel,0,,0,,,,,
+11-02-2025,02:00:00,BK100227,Cancelled by Customer,CUST2227,Prime Sedan,Location 28,Location 14,,,1,Driver asked to cancel,0,,0,,,,,
+23-02-2025,04:00:00,BK100228,Cancelled by Customer,CUST2228,Bike,Location 7,Location 39,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+02-02-2025,09:00:00,BK100229,Incomplete,CUST2229,Bike,Location 13,Location 27,,,0,,0,,1,Customer Demand,,,,
+23-02-2025,22:00:00,BK100230,Successful,CUST2230,eBike,Location 8,Location 15,9.5,5.8,0,,0,,0,,211.58,21.2,4.5,4.5
+04-02-2025,08:00:00,BK100231,Successful,CUST2231,Prime Sedan,Location 2,Location 44,2.7,13.2,0,,0,,0,,267.99,20.6,3.7,3.2
+06-02-2025,15:00:00,BK100232,Successful,CUST2232,Prime Plus,Location 30,Location 44,8.1,12.9,0,,0,,0,,161.23,11.2,4.8,4
+20-02-2025,22:00:00,BK100233,Successful,CUST2233,Prime Sedan,Location 14,Location 45,7,6.2,0,,0,,0,,140.35,12.4,3.1,3.1
+20-02-2025,15:00:00,BK100234,Cancelled by Customer,CUST2234,Prime Plus,Location 49,Location 41,,,1,AC is not working,0,,0,,,,,
+27-02-2025,08:00:00,BK100235,Successful,CUST2235,Prime Plus,Location 37,Location 40,3.7,5.2,0,,0,,0,,64.41,5.6,4,3.6
+04-02-2025,11:00:00,BK100236,Cancelled by Customer,CUST2236,Bike,Location 9,Location 14,,,1,Driver asked to cancel,0,,0,,,,,
+10-02-2025,18:00:00,BK100237,Successful,CUST2237,Bike,Location 33,Location 23,4.5,13.2,0,,0,,0,,206.65,21.8,3.8,4
+11-02-2025,10:00:00,BK100238,Cancelled by Customer,CUST2238,eBike,Location 47,Location 12,,,1,Wrong Address,0,,0,,,,,
+15-02-2025,23:00:00,BK100239,Cancelled by Customer,CUST2239,Prime Sedan,Location 5,Location 1,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+08-02-2025,20:00:00,BK100240,Successful,CUST2240,Prime Sedan,Location 1,Location 47,4.4,7.6,0,,0,,0,,121.6,14.3,3.7,4.4
+12-02-2025,06:00:00,BK100241,Successful,CUST2241,eBike,Location 32,Location 45,6,13.3,0,,0,,0,,71.17,5.1,3.2,4.4
+17-02-2025,10:00:00,BK100242,Successful,CUST2242,Auto,Location 31,Location 6,9.7,6.7,0,,0,,0,,68.15,7.2,4.7,4.4
+02-02-2025,00:00:00,BK100243,Successful,CUST2243,Mini,Location 50,Location 19,2.2,13.7,0,,0,,0,,200.08,19.5,4.4,3.2
+10-02-2025,20:00:00,BK100244,Cancelled by Driver,CUST2244,Mini,Location 18,Location 34,,,0,,1,Personal & Car related issues,0,,,,,
+01-02-2025,00:00:00,BK100245,Successful,CUST2245,Auto,Location 9,Location 41,9.5,5,0,,0,,0,,84.59,10.4,4.9,4.6
+18-02-2025,16:00:00,BK100246,Successful,CUST2246,Mini,Location 18,Location 24,6.2,6,0,,0,,0,,183.11,20.3,3.6,3.9
+04-02-2025,09:00:00,BK100247,Cancelled by Customer,CUST2247,Bike,Location 30,Location 3,,,1,Change of plans,0,,0,,,,,
+01-02-2025,05:00:00,BK100248,Incomplete,CUST2248,eBike,Location 47,Location 19,,,0,,0,,1,Other Issue,,,,
+16-02-2025,01:00:00,BK100249,Successful,CUST2249,eBike,Location 34,Location 1,4.7,11.8,0,,0,,0,,212.73,15.6,3.7,3.7
+01-02-2025,12:00:00,BK100250,Successful,CUST2250,Auto,Location 34,Location 41,7.5,6.5,0,,0,,0,,21.45,2.1,4.2,4.5
+11-02-2025,15:00:00,BK100251,Successful,CUST2251,Auto,Location 6,Location 1,7.5,8.6,0,,0,,0,,95.14,7,4.1,3.5
+10-02-2025,11:00:00,BK100252,Cancelled by Customer,CUST2252,eBike,Location 6,Location 21,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+14-02-2025,17:00:00,BK100253,Successful,CUST2253,Mini,Location 47,Location 39,7,15,0,,0,,0,,260.48,17.9,3.9,4.8
+03-02-2025,04:00:00,BK100254,Cancelled by Customer,CUST2254,eBike,Location 9,Location 10,,,1,AC is not working,0,,0,,,,,
+10-02-2025,23:00:00,BK100255,Successful,CUST2255,Mini,Location 2,Location 47,9.2,14,0,,0,,0,,63.41,4.9,4.3,3.6
+16-02-2025,09:00:00,BK100256,Cancelled by Customer,CUST2256,Prime Sedan,Location 20,Location 15,,,1,Driver asked to cancel,0,,0,,,,,
+05-02-2025,12:00:00,BK100257,Successful,CUST2257,Mini,Location 48,Location 43,7.9,14.6,0,,0,,0,,329.81,24.1,4.4,4.4
+24-02-2025,19:00:00,BK100258,Successful,CUST2258,Bike,Location 14,Location 13,3.2,11.4,0,,0,,0,,214.13,15.6,3.3,4.8
+19-02-2025,21:00:00,BK100259,Successful,CUST2259,Prime Plus,Location 36,Location 3,2.9,10.8,0,,0,,0,,87.83,8.4,4,4.6
+27-02-2025,18:00:00,BK100260,Cancelled by Customer,CUST2260,Bike,Location 20,Location 31,,,1,Driver asked to cancel,0,,0,,,,,
+26-02-2025,06:00:00,BK100261,Incomplete,CUST2261,eBike,Location 29,Location 44,,,0,,0,,1,Customer Demand,,,,
+02-02-2025,20:00:00,BK100262,Cancelled by Driver,CUST2262,Auto,Location 13,Location 19,,,0,,1,More than permitted people in there,0,,,,,
+11-02-2025,23:00:00,BK100263,Successful,CUST2263,Prime Plus,Location 20,Location 3,3.7,14.8,0,,0,,0,,31.16,3.8,4.3,3.1
+17-02-2025,00:00:00,BK100264,Successful,CUST2264,Auto,Location 16,Location 15,6.7,13.2,0,,0,,0,,109.77,11.8,3.7,3
+15-02-2025,16:00:00,BK100265,Successful,CUST2265,Auto,Location 32,Location 28,5.4,10.8,0,,0,,0,,144.94,10.7,4,4.6
+01-02-2025,03:00:00,BK100266,Cancelled by Customer,CUST2266,Auto,Location 20,Location 12,,,1,Driver asked to cancel,0,,0,,,,,
+19-02-2025,05:00:00,BK100267,Cancelled by Driver,CUST2267,eBike,Location 47,Location 35,,,0,,1,Personal & Car related issues,0,,,,,
+14-02-2025,03:00:00,BK100268,Successful,CUST2268,eBike,Location 23,Location 37,9.4,11.3,0,,0,,0,,251.94,19.5,4.5,3.5
+24-02-2025,16:00:00,BK100269,Cancelled by Customer,CUST2269,eBike,Location 3,Location 32,,,1,Wrong Address,0,,0,,,,,
+22-02-2025,11:00:00,BK100270,Cancelled by Driver,CUST2270,Prime Plus,Location 8,Location 25,,,0,,1,Customer related issue,0,,,,,
+03-02-2025,10:00:00,BK100271,Successful,CUST2271,Prime Plus,Location 6,Location 24,7.3,9.7,0,,0,,0,,296.89,21.6,4.1,3.9
+26-02-2025,10:00:00,BK100272,Successful,CUST2272,Auto,Location 20,Location 28,6.8,8.7,0,,0,,0,,196.99,18.5,4.3,3.7
+05-02-2025,05:00:00,BK100273,Successful,CUST2273,Prime Sedan,Location 30,Location 15,9,13,0,,0,,0,,88.58,9.2,5,4.9
+22-02-2025,06:00:00,BK100274,Successful,CUST2274,Auto,Location 50,Location 18,8.2,10.7,0,,0,,0,,53.44,4.6,3,4.3
+26-02-2025,17:00:00,BK100275,Successful,CUST2275,eBike,Location 37,Location 2,9.9,7.5,0,,0,,0,,272.81,19.5,3.8,4.4
+18-02-2025,03:00:00,BK100276,Successful,CUST2276,Prime Sedan,Location 28,Location 6,6.1,9.6,0,,0,,0,,217.87,21.9,4,3.3
+27-02-2025,11:00:00,BK100277,Incomplete,CUST2277,Auto,Location 39,Location 39,,,0,,0,,1,Vehicle Breakdown,,,,
+11-02-2025,21:00:00,BK100278,Successful,CUST2278,Auto,Location 23,Location 48,8.7,14.5,0,,0,,0,,212.29,19.8,3.8,3.9
+17-02-2025,21:00:00,BK100279,Cancelled by Customer,CUST2279,Auto,Location 39,Location 4,,,1,Driver asked to cancel,0,,0,,,,,
+24-02-2025,07:00:00,BK100280,Successful,CUST2280,Prime Sedan,Location 30,Location 8,8.5,9.5,0,,0,,0,,81.98,6.8,3.1,3.7
+05-02-2025,18:00:00,BK100281,Cancelled by Customer,CUST2281,Mini,Location 26,Location 26,,,1,Driver asked to cancel,0,,0,,,,,
+19-02-2025,00:00:00,BK100282,Cancelled by Customer,CUST2282,eBike,Location 6,Location 4,,,1,Driver asked to cancel,0,,0,,,,,
+18-02-2025,06:00:00,BK100283,Successful,CUST2283,Prime Sedan,Location 21,Location 30,3.5,9.2,0,,0,,0,,64.51,4.9,3.2,4.7
+10-02-2025,05:00:00,BK100284,Cancelled by Driver,CUST2284,eBike,Location 43,Location 2,,,0,,1,Customer related issue,0,,,,,
+04-02-2025,19:00:00,BK100285,Successful,CUST2285,Prime Sedan,Location 46,Location 21,8.4,11,0,,0,,0,,182.12,19,3.6,4
+26-02-2025,14:00:00,BK100286,Successful,CUST2286,Mini,Location 1,Location 20,3.9,7.9,0,,0,,0,,208.28,19.3,3.2,4.2
+08-02-2025,03:00:00,BK100287,Cancelled by Driver,CUST2287,eBike,Location 11,Location 12,,,0,,1,Customer related issue,0,,,,,
+24-02-2025,00:00:00,BK100288,Cancelled by Driver,CUST2288,eBike,Location 6,Location 27,,,0,,1,Customer related issue,0,,,,,
+15-02-2025,13:00:00,BK100289,Cancelled by Customer,CUST2289,eBike,Location 14,Location 19,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+12-02-2025,00:00:00,BK100290,Successful,CUST2290,Auto,Location 7,Location 16,3.2,11.5,0,,0,,0,,237.84,23.4,3.9,4.8
+16-02-2025,07:00:00,BK100291,Successful,CUST2291,Auto,Location 34,Location 4,9.3,14.2,0,,0,,0,,209.54,15.7,3.1,4.8
+22-02-2025,22:00:00,BK100292,Cancelled by Customer,CUST2292,Mini,Location 35,Location 26,,,1,Driver asked to cancel,0,,0,,,,,
+25-02-2025,22:00:00,BK100293,Successful,CUST2293,Mini,Location 11,Location 15,4.2,9,0,,0,,0,,172.02,16.9,3.4,3.2
+03-02-2025,02:00:00,BK100294,Successful,CUST2294,eBike,Location 39,Location 4,5,6.3,0,,0,,0,,157.04,11,4,4.6
+03-02-2025,08:00:00,BK100295,Incomplete,CUST2295,Prime Plus,Location 17,Location 25,,,0,,0,,1,Vehicle Breakdown,,,,
+06-02-2025,06:00:00,BK100296,Successful,CUST2296,Prime Plus,Location 47,Location 44,4.3,7.7,0,,0,,0,,80.24,8.2,4.7,4.1
+10-02-2025,22:00:00,BK100297,Successful,CUST2297,Bike,Location 45,Location 48,9.4,14.9,0,,0,,0,,233.38,19.9,5,3.3
+27-02-2025,06:00:00,BK100298,Cancelled by Customer,CUST2298,Auto,Location 42,Location 22,,,1,Wrong Address,0,,0,,,,,
+06-02-2025,08:00:00,BK100299,Successful,CUST2299,Auto,Location 31,Location 39,3.8,5.2,0,,0,,0,,203.05,23.7,3.6,3.4
+16-02-2025,13:00:00,BK100300,Successful,CUST2300,Mini,Location 6,Location 9,5.6,12.1,0,,0,,0,,69.41,6.5,4.5,4.4
+06-02-2025,20:00:00,BK100301,Successful,CUST2301,Auto,Location 5,Location 13,3.7,7.4,0,,0,,0,,106.53,7.4,3.8,4.9
+17-02-2025,07:00:00,BK100302,Cancelled by Driver,CUST2302,Auto,Location 36,Location 10,,,0,,1,Personal & Car related issues,0,,,,,
+26-02-2025,00:00:00,BK100303,Successful,CUST2303,Bike,Location 29,Location 27,8.7,12.1,0,,0,,0,,229.7,17.7,3.6,4.8
+12-02-2025,08:00:00,BK100304,Successful,CUST2304,Prime Sedan,Location 47,Location 21,9.8,6.5,0,,0,,0,,160.88,19,3,3.7
+27-02-2025,04:00:00,BK100305,Successful,CUST2305,eBike,Location 43,Location 32,7.2,10.1,0,,0,,0,,65.35,6.7,4,4.9
+11-02-2025,16:00:00,BK100306,Successful,CUST2306,Mini,Location 27,Location 43,5,12.5,0,,0,,0,,302.36,22.9,3.3,3.4
+10-02-2025,21:00:00,BK100307,Successful,CUST2307,Mini,Location 26,Location 5,2.4,14.2,0,,0,,0,,157.66,18.3,4.5,3.7
+24-02-2025,10:00:00,BK100308,Cancelled by Customer,CUST2308,Prime Plus,Location 22,Location 49,,,1,AC is not working,0,,0,,,,,
+04-02-2025,22:00:00,BK100309,Cancelled by Driver,CUST2309,Prime Sedan,Location 46,Location 5,,,0,,1,More than permitted people in there,0,,,,,
+12-02-2025,20:00:00,BK100310,Successful,CUST2310,Mini,Location 28,Location 18,9.3,7.4,0,,0,,0,,51.9,4.6,3.2,4.9
+08-02-2025,16:00:00,BK100311,Successful,CUST2311,Auto,Location 40,Location 41,6.4,8,0,,0,,0,,195.35,17.3,3.6,4.6
+21-02-2025,17:00:00,BK100312,Successful,CUST2312,Prime Sedan,Location 19,Location 28,8.6,9,0,,0,,0,,184.83,14.4,4.4,4.9
+14-02-2025,08:00:00,BK100313,Cancelled by Customer,CUST2313,Mini,Location 10,Location 40,,,1,Change of plans,0,,0,,,,,
+25-02-2025,18:00:00,BK100314,Successful,CUST2314,eBike,Location 14,Location 33,7.2,7.2,0,,0,,0,,112.72,9.9,3.2,3.5
+26-02-2025,18:00:00,BK100315,Successful,CUST2315,Mini,Location 23,Location 41,2.5,12.2,0,,0,,0,,143.53,11.7,4.3,4.5
+02-02-2025,19:00:00,BK100316,Successful,CUST2316,eBike,Location 24,Location 4,4.3,15,0,,0,,0,,48.41,4.4,3.8,3.1
+23-02-2025,03:00:00,BK100317,Successful,CUST2317,Prime Sedan,Location 20,Location 23,5,6,0,,0,,0,,168.13,16.4,4.1,5
+19-02-2025,16:00:00,BK100318,Cancelled by Customer,CUST2318,Prime Plus,Location 32,Location 32,,,1,Wrong Address,0,,0,,,,,
+03-02-2025,18:00:00,BK100319,Successful,CUST2319,eBike,Location 49,Location 32,7.6,7.7,0,,0,,0,,50.98,5.2,3.3,4.8
+14-02-2025,19:00:00,BK100320,Successful,CUST2320,eBike,Location 16,Location 15,7.9,8.8,0,,0,,0,,131.9,14.1,4,4.9
+14-02-2025,08:00:00,BK100321,Incomplete,CUST2321,Bike,Location 36,Location 38,,,0,,0,,1,Customer Demand,,,,
+08-02-2025,10:00:00,BK100322,Successful,CUST2322,Mini,Location 48,Location 31,9.5,8.4,0,,0,,0,,189.82,22.6,4.1,4.4
+13-02-2025,09:00:00,BK100323,Successful,CUST2323,Prime Sedan,Location 48,Location 16,5.6,13.1,0,,0,,0,,25.77,2.3,4.2,4.4
+16-02-2025,06:00:00,BK100324,Successful,CUST2324,Bike,Location 1,Location 5,5.1,8.7,0,,0,,0,,23.64,2,4.4,4.7
+19-02-2025,22:00:00,BK100325,Successful,CUST2325,Prime Plus,Location 3,Location 4,8.3,10.9,0,,0,,0,,213.72,22,3.6,3.3
+05-02-2025,20:00:00,BK100326,Successful,CUST2326,Bike,Location 5,Location 9,3.2,13,0,,0,,0,,184.8,19.8,4.8,3.5
+12-02-2025,06:00:00,BK100327,Cancelled by Driver,CUST2327,Prime Sedan,Location 15,Location 41,,,0,,1,More than permitted people in there,0,,,,,
+02-02-2025,15:00:00,BK100328,Successful,CUST2328,Prime Sedan,Location 27,Location 41,6.9,8.6,0,,0,,0,,240.27,18.1,3.4,3.8
+23-02-2025,13:00:00,BK100329,Successful,CUST2329,Bike,Location 7,Location 26,9.5,8.7,0,,0,,0,,36.62,2.5,4,4
+24-02-2025,15:00:00,BK100330,Successful,CUST2330,Prime Sedan,Location 3,Location 24,3.6,6.4,0,,0,,0,,54.82,3.7,4.4,3.4
+17-02-2025,11:00:00,BK100331,Cancelled by Customer,CUST2331,Prime Plus,Location 43,Location 49,,,1,Wrong Address,0,,0,,,,,
+11-02-2025,14:00:00,BK100332,Cancelled by Customer,CUST2332,Mini,Location 6,Location 20,,,1,AC is not working,0,,0,,,,,
+05-02-2025,01:00:00,BK100333,Successful,CUST2333,Prime Plus,Location 38,Location 9,9.4,12.4,0,,0,,0,,86.71,8.2,3.8,4.9
+03-02-2025,17:00:00,BK100334,Successful,CUST2334,Bike,Location 18,Location 2,4.5,13.9,0,,0,,0,,221.86,20,3.8,3
+21-02-2025,15:00:00,BK100335,Incomplete,CUST2335,Bike,Location 11,Location 31,,,0,,0,,1,Vehicle Breakdown,,,,
+23-02-2025,04:00:00,BK100336,Successful,CUST2336,Bike,Location 40,Location 41,5.1,14.5,0,,0,,0,,253.34,23.7,3.6,4.5
+03-02-2025,10:00:00,BK100337,Cancelled by Driver,CUST2337,Prime Sedan,Location 47,Location 13,,,0,,1,The customer was coughing/sick,0,,,,,
+21-02-2025,14:00:00,BK100338,Successful,CUST2338,Prime Plus,Location 10,Location 2,7.3,13.3,0,,0,,0,,148.68,13.3,5,3.2
+19-02-2025,01:00:00,BK100339,Cancelled by Customer,CUST2339,Auto,Location 24,Location 2,,,1,Change of plans,0,,0,,,,,
+13-02-2025,23:00:00,BK100340,Successful,CUST2340,Bike,Location 40,Location 17,5.8,12.8,0,,0,,0,,232.55,24.5,3.4,4.8
+11-02-2025,01:00:00,BK100341,Cancelled by Customer,CUST2341,Prime Sedan,Location 12,Location 28,,,1,Change of plans,0,,0,,,,,
+02-02-2025,03:00:00,BK100342,Cancelled by Customer,CUST2342,Prime Plus,Location 12,Location 25,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+13-02-2025,19:00:00,BK100343,Cancelled by Customer,CUST2343,Prime Sedan,Location 13,Location 31,,,1,Driver asked to cancel,0,,0,,,,,
+19-02-2025,14:00:00,BK100344,Successful,CUST2344,Prime Sedan,Location 6,Location 14,4.6,11,0,,0,,0,,72.78,7.1,4.8,3.8
+06-02-2025,05:00:00,BK100345,Successful,CUST2345,Prime Plus,Location 30,Location 30,2.3,10.6,0,,0,,0,,133.26,15.2,4.6,3.6
+19-02-2025,16:00:00,BK100346,Successful,CUST2346,Bike,Location 1,Location 35,8.1,12.9,0,,0,,0,,257.16,22.4,3.3,3.5
+23-02-2025,16:00:00,BK100347,Cancelled by Customer,CUST2347,Prime Sedan,Location 27,Location 42,,,1,Change of plans,0,,0,,,,,
+25-02-2025,00:00:00,BK100348,Cancelled by Customer,CUST2348,Prime Sedan,Location 46,Location 14,,,1,Driver asked to cancel,0,,0,,,,,
+20-02-2025,09:00:00,BK100349,Cancelled by Customer,CUST2349,Prime Sedan,Location 3,Location 28,,,1,Wrong Address,0,,0,,,,,
+14-02-2025,01:00:00,BK100350,Cancelled by Driver,CUST2350,Prime Sedan,Location 43,Location 41,,,0,,1,Customer related issue,0,,,,,
+04-02-2025,18:00:00,BK100351,Successful,CUST2351,Bike,Location 43,Location 42,6.8,12.3,0,,0,,0,,122.99,11.9,3.1,4.6
+07-02-2025,20:00:00,BK100352,Successful,CUST2352,eBike,Location 10,Location 32,9.2,14.9,0,,0,,0,,210.53,17.9,3,4.5
+25-02-2025,12:00:00,BK100353,Cancelled by Customer,CUST2353,Auto,Location 10,Location 37,,,1,Wrong Address,0,,0,,,,,
+07-02-2025,13:00:00,BK100354,Successful,CUST2354,Bike,Location 27,Location 9,3.8,6.1,0,,0,,0,,181.99,14.3,4.3,4.2
+10-02-2025,19:00:00,BK100355,Successful,CUST2355,Bike,Location 24,Location 18,5.2,6.2,0,,0,,0,,90.32,11,5,3.8
+06-02-2025,03:00:00,BK100356,Cancelled by Driver,CUST2356,Prime Sedan,Location 29,Location 28,,,0,,1,The customer was coughing/sick,0,,,,,
+24-02-2025,04:00:00,BK100357,Successful,CUST2357,Prime Sedan,Location 6,Location 48,7.3,7.8,0,,0,,0,,57.73,6.6,3.4,3.2
+25-02-2025,20:00:00,BK100358,Successful,CUST2358,Prime Plus,Location 1,Location 33,3.8,8.3,0,,0,,0,,198.91,13.3,3.8,3.3
+01-02-2025,00:00:00,BK100359,Cancelled by Driver,CUST2359,eBike,Location 26,Location 24,,,0,,1,More than permitted people in there,0,,,,,
+20-02-2025,01:00:00,BK100360,Cancelled by Customer,CUST2360,Prime Sedan,Location 38,Location 10,,,1,Driver asked to cancel,0,,0,,,,,
+23-02-2025,02:00:00,BK100361,Cancelled by Customer,CUST2361,eBike,Location 19,Location 13,,,1,AC is not working,0,,0,,,,,
+15-02-2025,01:00:00,BK100362,Incomplete,CUST2362,Bike,Location 39,Location 24,,,0,,0,,1,Vehicle Breakdown,,,,
+06-02-2025,17:00:00,BK100363,Successful,CUST2363,Prime Sedan,Location 1,Location 45,3.7,8,0,,0,,0,,219.74,15.5,3.7,4.7
+10-02-2025,11:00:00,BK100364,Cancelled by Customer,CUST2364,eBike,Location 18,Location 29,,,1,Change of plans,0,,0,,,,,
+19-02-2025,04:00:00,BK100365,Cancelled by Customer,CUST2365,Prime Plus,Location 40,Location 44,,,1,Driver asked to cancel,0,,0,,,,,
+12-02-2025,15:00:00,BK100366,Successful,CUST2366,Prime Plus,Location 25,Location 3,6,10.8,0,,0,,0,,95.65,7.7,4.5,4.2
+11-02-2025,21:00:00,BK100367,Cancelled by Driver,CUST2367,Auto,Location 28,Location 14,,,0,,1,More than permitted people in there,0,,,,,
+21-02-2025,19:00:00,BK100368,Successful,CUST2368,Mini,Location 45,Location 48,3.3,10,0,,0,,0,,153.66,15,4.9,4.2
+13-02-2025,22:00:00,BK100369,Successful,CUST2369,Prime Sedan,Location 2,Location 41,4.7,13.4,0,,0,,0,,294.38,21.6,3.3,3.2
+25-02-2025,21:00:00,BK100370,Cancelled by Driver,CUST2370,Bike,Location 2,Location 10,,,0,,1,Customer related issue,0,,,,,
+10-02-2025,11:00:00,BK100371,Cancelled by Driver,CUST2371,Mini,Location 39,Location 17,,,0,,1,More than permitted people in there,0,,,,,
+19-02-2025,00:00:00,BK100372,Successful,CUST2372,Bike,Location 29,Location 31,3.5,8.2,0,,0,,0,,122.15,9.7,3.7,4.8
+10-02-2025,15:00:00,BK100373,Successful,CUST2373,eBike,Location 38,Location 19,2.7,11.6,0,,0,,0,,136.3,13.4,4.5,4.3
+02-02-2025,15:00:00,BK100374,Cancelled by Driver,CUST2374,eBike,Location 45,Location 41,,,0,,1,Customer related issue,0,,,,,
+07-02-2025,16:00:00,BK100375,Cancelled by Customer,CUST2375,Prime Plus,Location 37,Location 20,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+03-02-2025,20:00:00,BK100376,Successful,CUST2376,Prime Plus,Location 41,Location 9,4.3,10.9,0,,0,,0,,79.77,6,4.2,4.1
+23-02-2025,23:00:00,BK100377,Cancelled by Driver,CUST2377,Prime Plus,Location 30,Location 42,,,0,,1,More than permitted people in there,0,,,,,
+24-02-2025,16:00:00,BK100378,Cancelled by Customer,CUST2378,Auto,Location 12,Location 33,,,1,Driver asked to cancel,0,,0,,,,,
+23-02-2025,07:00:00,BK100379,Successful,CUST2379,eBike,Location 27,Location 50,6,9.4,0,,0,,0,,58.81,5.1,3,4.1
+12-02-2025,04:00:00,BK100380,Successful,CUST2380,Auto,Location 33,Location 9,9.5,11.6,0,,0,,0,,324.04,23.7,4.9,4.7
+09-02-2025,09:00:00,BK100381,Cancelled by Driver,CUST2381,Mini,Location 25,Location 3,,,0,,1,More than permitted people in there,0,,,,,
+08-02-2025,22:00:00,BK100382,Successful,CUST2382,Auto,Location 19,Location 48,2.8,11.3,0,,0,,0,,46.71,4.9,3.4,3.6
+18-02-2025,13:00:00,BK100383,Successful,CUST2383,eBike,Location 38,Location 47,4.7,9.3,0,,0,,0,,181.52,14.8,4.5,4.9
+21-02-2025,09:00:00,BK100384,Successful,CUST2384,Prime Sedan,Location 26,Location 28,8.2,9.9,0,,0,,0,,209.9,14.1,4.8,3.8
+04-02-2025,23:00:00,BK100385,Successful,CUST2385,Auto,Location 23,Location 19,9.6,13.4,0,,0,,0,,47.75,3.6,4.4,3.1
+05-02-2025,16:00:00,BK100386,Successful,CUST2386,Prime Plus,Location 49,Location 12,3.9,5.3,0,,0,,0,,40.75,4.2,4.6,4.2
+03-02-2025,13:00:00,BK100387,Successful,CUST2387,Bike,Location 15,Location 39,6,5,0,,0,,0,,87.04,7.9,4.7,3.3
+20-02-2025,23:00:00,BK100388,Cancelled by Customer,CUST2388,Auto,Location 33,Location 42,,,1,Driver asked to cancel,0,,0,,,,,
+04-02-2025,16:00:00,BK100389,Cancelled by Customer,CUST2389,Mini,Location 50,Location 27,,,1,AC is not working,0,,0,,,,,
+23-02-2025,06:00:00,BK100390,Cancelled by Customer,CUST2390,eBike,Location 17,Location 46,,,1,Driver asked to cancel,0,,0,,,,,
+10-02-2025,01:00:00,BK100391,Cancelled by Customer,CUST2391,Mini,Location 10,Location 39,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+15-02-2025,17:00:00,BK100392,Cancelled by Customer,CUST2392,Auto,Location 17,Location 10,,,1,AC is not working,0,,0,,,,,
+12-02-2025,05:00:00,BK100393,Successful,CUST2393,Prime Sedan,Location 42,Location 11,3.7,14.4,0,,0,,0,,230.92,21.4,3.7,4.6
+08-02-2025,01:00:00,BK100394,Successful,CUST2394,Auto,Location 7,Location 43,9.7,7.9,0,,0,,0,,180.35,14.5,3.3,3.8
+07-02-2025,11:00:00,BK100395,Successful,CUST2395,Prime Sedan,Location 32,Location 28,5.1,5.8,0,,0,,0,,303.23,21.5,3.3,4.3
+04-02-2025,11:00:00,BK100396,Successful,CUST2396,Mini,Location 4,Location 29,6.4,5.9,0,,0,,0,,45.88,5.2,4.4,3.2
+21-02-2025,21:00:00,BK100397,Successful,CUST2397,Prime Plus,Location 9,Location 22,3.1,12.8,0,,0,,0,,40.03,3.4,4.6,3.2
+07-02-2025,01:00:00,BK100398,Cancelled by Driver,CUST2398,Auto,Location 5,Location 38,,,0,,1,Personal & Car related issues,0,,,,,
+02-02-2025,06:00:00,BK100399,Successful,CUST2399,Bike,Location 3,Location 11,9.5,5.6,0,,0,,0,,115.03,12.9,4.2,3.3
+02-02-2025,00:00:00,BK100400,Successful,CUST2400,eBike,Location 37,Location 2,2.4,11.3,0,,0,,0,,93.91,6.3,4.8,3.1
+10-02-2025,16:00:00,BK100401,Successful,CUST2401,Bike,Location 50,Location 22,2.1,9.7,0,,0,,0,,56.23,6.4,4,4.6
+10-02-2025,19:00:00,BK100402,Successful,CUST2402,Bike,Location 12,Location 43,6.1,11,0,,0,,0,,85.42,6.7,3.8,3.7
+05-02-2025,02:00:00,BK100403,Successful,CUST2403,Bike,Location 45,Location 17,5.8,10.5,0,,0,,0,,55.43,5.3,4.1,4
+11-02-2025,03:00:00,BK100404,Successful,CUST2404,Auto,Location 2,Location 22,9.3,14.2,0,,0,,0,,242.86,19.9,4.5,4.8
+26-02-2025,18:00:00,BK100405,Successful,CUST2405,eBike,Location 10,Location 33,3.5,5.1,0,,0,,0,,153.6,17.2,4.9,4.2
+27-02-2025,09:00:00,BK100406,Cancelled by Driver,CUST2406,Prime Plus,Location 2,Location 13,,,0,,1,Personal & Car related issues,0,,,,,
+12-02-2025,05:00:00,BK100407,Cancelled by Driver,CUST2407,Bike,Location 13,Location 50,,,0,,1,Customer related issue,0,,,,,
+22-02-2025,05:00:00,BK100408,Incomplete,CUST2408,Prime Plus,Location 12,Location 38,,,0,,0,,1,Customer Demand,,,,
+05-02-2025,08:00:00,BK100409,Successful,CUST2409,Prime Plus,Location 10,Location 13,5.5,6.9,0,,0,,0,,227.49,17.5,3.4,3.2
+07-02-2025,20:00:00,BK100410,Cancelled by Customer,CUST2410,Prime Plus,Location 4,Location 10,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+04-02-2025,09:00:00,BK100411,Incomplete,CUST2411,eBike,Location 21,Location 44,,,0,,0,,1,Customer Demand,,,,
+21-02-2025,01:00:00,BK100412,Successful,CUST2412,eBike,Location 43,Location 22,8.7,5.4,0,,0,,0,,261.23,21.3,4.7,4.7
+27-02-2025,04:00:00,BK100413,Successful,CUST2413,Prime Plus,Location 8,Location 37,8.2,5.5,0,,0,,0,,30.25,2.2,4.2,4.5
+12-02-2025,14:00:00,BK100414,Incomplete,CUST2414,Prime Sedan,Location 45,Location 25,,,0,,0,,1,Other Issue,,,,
+15-02-2025,10:00:00,BK100415,Successful,CUST2415,eBike,Location 17,Location 48,8.4,13.1,0,,0,,0,,198.97,21,4.7,3.3
+17-02-2025,17:00:00,BK100416,Successful,CUST2416,Auto,Location 22,Location 7,9.1,6.5,0,,0,,0,,187.2,17.8,3.7,3.5
+17-02-2025,17:00:00,BK100417,Successful,CUST2417,Prime Plus,Location 43,Location 37,5.6,8.6,0,,0,,0,,177.21,18.1,3.1,3.4
+02-02-2025,07:00:00,BK100418,Cancelled by Customer,CUST2418,Bike,Location 32,Location 13,,,1,Change of plans,0,,0,,,,,
+09-02-2025,20:00:00,BK100419,Successful,CUST2419,Auto,Location 22,Location 20,5.8,10.7,0,,0,,0,,287.96,21.8,4.8,4.7
+08-02-2025,20:00:00,BK100420,Successful,CUST2420,Auto,Location 10,Location 14,2.3,11.1,0,,0,,0,,164.95,14.1,3.9,3.9
+15-02-2025,19:00:00,BK100421,Cancelled by Customer,CUST2421,Mini,Location 12,Location 11,,,1,Change of plans,0,,0,,,,,
+05-02-2025,12:00:00,BK100422,Successful,CUST2422,Mini,Location 40,Location 14,4.7,11.8,0,,0,,0,,234.63,16.8,3.3,3.7
+27-02-2025,10:00:00,BK100423,Successful,CUST2423,Mini,Location 19,Location 10,8.3,12.7,0,,0,,0,,240.38,17.4,4.5,4.7
+27-02-2025,08:00:00,BK100424,Successful,CUST2424,Auto,Location 34,Location 24,2.5,12.6,0,,0,,0,,292.89,21.5,3.5,4.8
+04-02-2025,13:00:00,BK100425,Successful,CUST2425,eBike,Location 9,Location 2,7.9,5.4,0,,0,,0,,89.44,7.9,4.8,3.4
+06-02-2025,15:00:00,BK100426,Successful,CUST2426,Bike,Location 50,Location 6,2.6,10.3,0,,0,,0,,162.44,14.3,5,5
+19-02-2025,19:00:00,BK100427,Cancelled by Customer,CUST2427,Mini,Location 24,Location 50,,,1,Driver asked to cancel,0,,0,,,,,
+14-02-2025,21:00:00,BK100428,Successful,CUST2428,Mini,Location 7,Location 28,9.4,11.5,0,,0,,0,,79.45,6.1,3.9,3.5
+09-02-2025,17:00:00,BK100429,Successful,CUST2429,Mini,Location 13,Location 10,6.2,8.8,0,,0,,0,,96.01,7.9,3.7,4.4
+07-02-2025,18:00:00,BK100430,Successful,CUST2430,Prime Sedan,Location 8,Location 23,5.8,9.4,0,,0,,0,,173.32,14.2,4.3,4.4
+06-02-2025,12:00:00,BK100431,Cancelled by Driver,CUST2431,Auto,Location 27,Location 49,,,0,,1,More than permitted people in there,0,,,,,
+14-02-2025,19:00:00,BK100432,Cancelled by Customer,CUST2432,eBike,Location 39,Location 19,,,1,Change of plans,0,,0,,,,,
+02-02-2025,14:00:00,BK100433,Cancelled by Customer,CUST2433,Auto,Location 12,Location 7,,,1,Change of plans,0,,0,,,,,
+02-02-2025,12:00:00,BK100434,Successful,CUST2434,Mini,Location 20,Location 16,9.1,10.7,0,,0,,0,,227.1,17.7,3.2,3.5
+27-02-2025,16:00:00,BK100435,Successful,CUST2435,Prime Sedan,Location 40,Location 10,3.5,10.9,0,,0,,0,,223.99,21.5,4,4.8
+13-02-2025,12:00:00,BK100436,Successful,CUST2436,eBike,Location 26,Location 12,5.9,9.2,0,,0,,0,,202.93,14.4,3.2,5
+07-02-2025,15:00:00,BK100437,Successful,CUST2437,eBike,Location 12,Location 13,2.6,6.7,0,,0,,0,,226.63,23.6,4.2,4.3
+18-02-2025,16:00:00,BK100438,Incomplete,CUST2438,Bike,Location 38,Location 22,,,0,,0,,1,Vehicle Breakdown,,,,
+16-02-2025,23:00:00,BK100439,Cancelled by Customer,CUST2439,Auto,Location 2,Location 48,,,1,Wrong Address,0,,0,,,,,
+23-02-2025,04:00:00,BK100440,Cancelled by Customer,CUST2440,Prime Plus,Location 28,Location 14,,,1,Wrong Address,0,,0,,,,,
+04-02-2025,10:00:00,BK100441,Cancelled by Driver,CUST2441,Prime Sedan,Location 26,Location 43,,,0,,1,Customer related issue,0,,,,,
+13-02-2025,09:00:00,BK100442,Successful,CUST2442,Prime Sedan,Location 38,Location 29,3.2,9.4,0,,0,,0,,305.96,22.8,3.3,4.7
+07-02-2025,21:00:00,BK100443,Cancelled by Customer,CUST2443,Prime Plus,Location 9,Location 6,,,1,Driver asked to cancel,0,,0,,,,,
+15-02-2025,23:00:00,BK100444,Cancelled by Customer,CUST2444,Mini,Location 13,Location 38,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+23-02-2025,11:00:00,BK100445,Successful,CUST2445,eBike,Location 18,Location 17,8.9,14.9,0,,0,,0,,83.41,9.5,4.4,4.6
+02-02-2025,20:00:00,BK100446,Successful,CUST2446,Bike,Location 8,Location 49,3.4,10.6,0,,0,,0,,299.75,23.8,4.9,3
+15-02-2025,00:00:00,BK100447,Cancelled by Driver,CUST2447,Prime Plus,Location 15,Location 9,,,0,,1,More than permitted people in there,0,,,,,
+10-02-2025,00:00:00,BK100448,Successful,CUST2448,Prime Sedan,Location 49,Location 23,8.2,14.5,0,,0,,0,,202.22,17.5,5,4.2
+16-02-2025,11:00:00,BK100449,Successful,CUST2449,Auto,Location 43,Location 39,8.2,8.1,0,,0,,0,,72.32,8.6,4.7,3.3
+05-02-2025,10:00:00,BK100450,Cancelled by Driver,CUST2450,Auto,Location 30,Location 19,,,0,,1,Personal & Car related issues,0,,,,,
+05-02-2025,09:00:00,BK100451,Successful,CUST2451,Auto,Location 29,Location 19,7.6,5.5,0,,0,,0,,136.12,12.1,4.8,4.4
+11-02-2025,00:00:00,BK100452,Successful,CUST2452,eBike,Location 25,Location 23,5.7,8.6,0,,0,,0,,30.16,2.1,4.7,3.6
+18-02-2025,22:00:00,BK100453,Successful,CUST2453,Bike,Location 48,Location 49,6.3,11.8,0,,0,,0,,31.36,2.2,4.6,3.1
+01-02-2025,14:00:00,BK100454,Successful,CUST2454,eBike,Location 19,Location 12,6.5,10,0,,0,,0,,28.7,2.1,4.5,4.8
+23-02-2025,15:00:00,BK100455,Cancelled by Driver,CUST2455,eBike,Location 25,Location 31,,,0,,1,Personal & Car related issues,0,,,,,
+21-02-2025,23:00:00,BK100456,Successful,CUST2456,eBike,Location 32,Location 31,2.6,6.8,0,,0,,0,,125.48,15.3,4.6,3.8
+17-02-2025,08:00:00,BK100457,Cancelled by Customer,CUST2457,Prime Sedan,Location 34,Location 50,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+08-02-2025,13:00:00,BK100458,Successful,CUST2458,Mini,Location 39,Location 31,6.7,5.8,0,,0,,0,,76.11,8.1,3.3,4.2
+25-02-2025,14:00:00,BK100459,Cancelled by Customer,CUST2459,Prime Plus,Location 30,Location 38,,,1,Wrong Address,0,,0,,,,,
+15-02-2025,01:00:00,BK100460,Successful,CUST2460,Mini,Location 23,Location 36,6,11.1,0,,0,,0,,297.12,20.4,3.8,4.6
+27-02-2025,04:00:00,BK100461,Successful,CUST2461,Prime Sedan,Location 15,Location 29,5.7,5.2,0,,0,,0,,41.91,4,4.8,3.5
+11-02-2025,23:00:00,BK100462,Cancelled by Customer,CUST2462,Prime Plus,Location 4,Location 1,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+26-02-2025,00:00:00,BK100463,Cancelled by Driver,CUST2463,eBike,Location 1,Location 26,,,0,,1,Customer related issue,0,,,,,
+16-02-2025,22:00:00,BK100464,Successful,CUST2464,Prime Plus,Location 26,Location 5,6.9,12.6,0,,0,,0,,230.15,20.2,4.9,4.6
+13-02-2025,17:00:00,BK100465,Cancelled by Driver,CUST2465,Mini,Location 27,Location 22,,,0,,1,The customer was coughing/sick,0,,,,,
+21-02-2025,07:00:00,BK100466,Successful,CUST2466,eBike,Location 46,Location 48,7.8,7.8,0,,0,,0,,175.47,13.3,4.7,4.2
+12-02-2025,06:00:00,BK100467,Successful,CUST2467,Prime Sedan,Location 7,Location 29,6.8,10.2,0,,0,,0,,136.3,10.6,4.6,4.3
+02-02-2025,03:00:00,BK100468,Successful,CUST2468,Bike,Location 2,Location 19,4.6,12.4,0,,0,,0,,42.57,2.9,3.1,3.6
+12-02-2025,19:00:00,BK100469,Successful,CUST2469,Prime Plus,Location 27,Location 17,5.6,8.2,0,,0,,0,,103.38,10.3,3.1,3.6
+03-02-2025,17:00:00,BK100470,Cancelled by Customer,CUST2470,Mini,Location 20,Location 23,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+13-02-2025,11:00:00,BK100471,Cancelled by Customer,CUST2471,eBike,Location 6,Location 1,,,1,AC is not working,0,,0,,,,,
+16-02-2025,03:00:00,BK100472,Cancelled by Driver,CUST2472,Prime Plus,Location 29,Location 38,,,0,,1,Personal & Car related issues,0,,,,,
+06-02-2025,07:00:00,BK100473,Cancelled by Customer,CUST2473,Bike,Location 25,Location 4,,,1,AC is not working,0,,0,,,,,
+26-02-2025,03:00:00,BK100474,Successful,CUST2474,Mini,Location 30,Location 11,4.4,10.4,0,,0,,0,,195.77,16.3,4.9,4.2
+23-02-2025,21:00:00,BK100475,Cancelled by Driver,CUST2475,Prime Sedan,Location 7,Location 16,,,0,,1,Personal & Car related issues,0,,,,,
+28-02-2025,00:00:00,BK100476,Cancelled by Driver,CUST2476,Auto,Location 12,Location 1,,,0,,1,Personal & Car related issues,0,,,,,
+10-02-2025,18:00:00,BK100477,Cancelled by Customer,CUST2477,Mini,Location 26,Location 30,,,1,Change of plans,0,,0,,,,,
+21-02-2025,04:00:00,BK100478,Cancelled by Driver,CUST2478,Auto,Location 13,Location 10,,,0,,1,Customer related issue,0,,,,,
+13-02-2025,05:00:00,BK100479,Successful,CUST2479,Mini,Location 37,Location 4,5.4,6.9,0,,0,,0,,51.94,5,3.5,3.6
+14-02-2025,04:00:00,BK100480,Incomplete,CUST2480,Prime Plus,Location 35,Location 50,,,0,,0,,1,Customer Demand,,,,
+08-02-2025,02:00:00,BK100481,Successful,CUST2481,Prime Sedan,Location 5,Location 3,4.5,8.5,0,,0,,0,,117.89,11.7,4.5,3.8
+12-02-2025,22:00:00,BK100482,Cancelled by Customer,CUST2482,Bike,Location 19,Location 13,,,1,AC is not working,0,,0,,,,,
+06-02-2025,16:00:00,BK100483,Successful,CUST2483,eBike,Location 17,Location 45,3.2,14.8,0,,0,,0,,168.68,20.3,3.6,4
+07-02-2025,18:00:00,BK100484,Successful,CUST2484,Prime Plus,Location 5,Location 43,8.6,11.3,0,,0,,0,,155.44,14.7,4.6,3.2
+24-02-2025,23:00:00,BK100485,Cancelled by Customer,CUST2485,eBike,Location 13,Location 36,,,1,Change of plans,0,,0,,,,,
+23-02-2025,20:00:00,BK100486,Successful,CUST2486,Prime Sedan,Location 45,Location 13,8,14.9,0,,0,,0,,105.7,11.1,3.6,3.8
+26-02-2025,07:00:00,BK100487,Successful,CUST2487,Mini,Location 47,Location 46,5.7,10.3,0,,0,,0,,24.9,2.5,3.8,3.2
+02-02-2025,15:00:00,BK100488,Successful,CUST2488,eBike,Location 4,Location 21,9.8,12.1,0,,0,,0,,216.88,14.8,3.4,3.4
+06-02-2025,17:00:00,BK100489,Successful,CUST2489,Bike,Location 17,Location 48,8.5,12.5,0,,0,,0,,193.43,24.1,4.2,4.1
+21-02-2025,20:00:00,BK100490,Successful,CUST2490,Bike,Location 24,Location 46,2.6,5.1,0,,0,,0,,258.42,20,4.5,3.5
+08-02-2025,18:00:00,BK100491,Cancelled by Customer,CUST2491,Bike,Location 39,Location 40,,,1,Wrong Address,0,,0,,,,,
+14-02-2025,07:00:00,BK100492,Cancelled by Customer,CUST2492,Bike,Location 23,Location 26,,,1,AC is not working,0,,0,,,,,
+18-02-2025,02:00:00,BK100493,Successful,CUST2493,Auto,Location 37,Location 47,9.6,7.3,0,,0,,0,,127.92,10.3,4.1,3.3
+14-02-2025,22:00:00,BK100494,Cancelled by Customer,CUST2494,Prime Sedan,Location 48,Location 20,,,1,Change of plans,0,,0,,,,,
+26-02-2025,11:00:00,BK100495,Incomplete,CUST2495,Prime Sedan,Location 48,Location 49,,,0,,0,,1,Vehicle Breakdown,,,,
+15-02-2025,08:00:00,BK100496,Successful,CUST2496,Auto,Location 1,Location 50,7.2,14.2,0,,0,,0,,105.72,8.6,3.7,3.4
+07-02-2025,01:00:00,BK100497,Successful,CUST2497,Mini,Location 44,Location 16,4.1,6.1,0,,0,,0,,225.86,21.5,4,3.6
+04-02-2025,14:00:00,BK100498,Cancelled by Customer,CUST2498,Bike,Location 8,Location 40,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+25-02-2025,03:00:00,BK100499,Successful,CUST2499,Auto,Location 22,Location 10,3.7,6.9,0,,0,,0,,173.65,11.9,3.9,4.2
+03-02-2025,06:00:00,BK100500,Successful,CUST2500,Mini,Location 5,Location 33,3.9,9.1,0,,0,,0,,306.03,21.1,3.2,4.8
+14-02-2025,15:00:00,BK100501,Cancelled by Customer,CUST2501,eBike,Location 14,Location 19,,,1,Change of plans,0,,0,,,,,
+11-02-2025,09:00:00,BK100502,Successful,CUST2502,Auto,Location 31,Location 26,9.6,12.1,0,,0,,0,,33.8,2.7,3.9,3
+27-02-2025,09:00:00,BK100503,Successful,CUST2503,eBike,Location 24,Location 29,3.1,5.7,0,,0,,0,,61,4.6,3.5,4.8
+19-02-2025,14:00:00,BK100504,Successful,CUST2504,Bike,Location 42,Location 29,8.5,5.3,0,,0,,0,,166.02,17.2,3,4.8
+23-02-2025,16:00:00,BK100505,Successful,CUST2505,Prime Plus,Location 12,Location 5,4.9,5.8,0,,0,,0,,265.05,18.3,3,3.5
+20-02-2025,20:00:00,BK100506,Successful,CUST2506,Auto,Location 41,Location 7,3.7,10,0,,0,,0,,300.2,22.3,4,4
+16-02-2025,22:00:00,BK100507,Cancelled by Customer,CUST2507,Mini,Location 21,Location 17,,,1,Wrong Address,0,,0,,,,,
+24-02-2025,05:00:00,BK100508,Cancelled by Driver,CUST2508,Prime Plus,Location 44,Location 23,,,0,,1,Customer related issue,0,,,,,
+07-02-2025,13:00:00,BK100509,Successful,CUST2509,Auto,Location 27,Location 50,7.9,5.6,0,,0,,0,,120.13,9.8,3.7,5
+15-02-2025,16:00:00,BK100510,Successful,CUST2510,Mini,Location 48,Location 27,3.2,14.6,0,,0,,0,,272.78,23,4.7,3.1
+13-02-2025,19:00:00,BK100511,Successful,CUST2511,Prime Sedan,Location 35,Location 23,2.2,9.8,0,,0,,0,,82.14,6.4,3.3,3.5
+12-02-2025,03:00:00,BK100512,Successful,CUST2512,Auto,Location 16,Location 5,3.6,10.9,0,,0,,0,,220.66,14.8,4.8,3.7
+20-02-2025,14:00:00,BK100513,Successful,CUST2513,eBike,Location 14,Location 11,6.8,13.6,0,,0,,0,,260.58,18,3.1,3.2
+19-02-2025,18:00:00,BK100514,Successful,CUST2514,Auto,Location 37,Location 33,2.2,11.6,0,,0,,0,,98.66,7.6,4.1,4.9
+02-02-2025,02:00:00,BK100515,Successful,CUST2515,Auto,Location 19,Location 10,4.7,12.5,0,,0,,0,,143.34,11.4,3.2,3.5
+07-02-2025,17:00:00,BK100516,Successful,CUST2516,Prime Plus,Location 9,Location 29,9.1,14.8,0,,0,,0,,35.1,3.6,4.6,4.7
+05-02-2025,13:00:00,BK100517,Successful,CUST2517,Prime Sedan,Location 4,Location 10,9.4,13.2,0,,0,,0,,111.95,8,3.8,3.5
+12-02-2025,08:00:00,BK100518,Successful,CUST2518,Bike,Location 5,Location 16,5.4,12.8,0,,0,,0,,308.64,22.9,4.9,4.2
+01-02-2025,16:00:00,BK100519,Cancelled by Customer,CUST2519,Prime Plus,Location 49,Location 39,,,1,Change of plans,0,,0,,,,,
+12-02-2025,17:00:00,BK100520,Successful,CUST2520,Mini,Location 41,Location 34,2.6,10.3,0,,0,,0,,80.74,7.6,4.5,3.6
+11-02-2025,07:00:00,BK100521,Successful,CUST2521,eBike,Location 2,Location 14,4.1,9.7,0,,0,,0,,119.83,14.8,4,3.6
+04-02-2025,15:00:00,BK100522,Successful,CUST2522,eBike,Location 11,Location 26,3.7,9.1,0,,0,,0,,81.9,10.2,4.1,3.7
+26-02-2025,11:00:00,BK100523,Cancelled by Driver,CUST2523,eBike,Location 14,Location 13,,,0,,1,More than permitted people in there,0,,,,,
+24-02-2025,01:00:00,BK100524,Successful,CUST2524,Prime Plus,Location 36,Location 40,3.8,10.7,0,,0,,0,,194.68,22.2,4.6,4.2
+01-02-2025,11:00:00,BK100525,Successful,CUST2525,Mini,Location 14,Location 41,7.8,13.2,0,,0,,0,,66.57,5.6,3.3,4.5
+16-02-2025,21:00:00,BK100526,Successful,CUST2526,Prime Sedan,Location 27,Location 43,6.9,5.5,0,,0,,0,,102.2,7.8,3.6,3.6
+14-02-2025,21:00:00,BK100527,Successful,CUST2527,eBike,Location 29,Location 13,7.1,14.4,0,,0,,0,,255.53,23.9,4,4.7
+21-02-2025,10:00:00,BK100528,Successful,CUST2528,Prime Plus,Location 45,Location 6,2.7,13.7,0,,0,,0,,173.75,14.4,3.5,4.8
+15-02-2025,05:00:00,BK100529,Successful,CUST2529,Auto,Location 18,Location 8,5.9,8.9,0,,0,,0,,296.37,20.5,4.7,4.4
+23-02-2025,11:00:00,BK100530,Successful,CUST2530,Mini,Location 25,Location 30,7.4,14,0,,0,,0,,285.21,22.9,3.5,4.4
+12-02-2025,10:00:00,BK100531,Successful,CUST2531,Prime Sedan,Location 33,Location 44,2.7,7.2,0,,0,,0,,253.57,18.9,4.2,4
+01-02-2025,00:00:00,BK100532,Successful,CUST2532,Bike,Location 30,Location 17,4.9,9.9,0,,0,,0,,227.79,18.8,3.5,4.9
+26-02-2025,17:00:00,BK100533,Successful,CUST2533,Auto,Location 50,Location 35,5.3,9.2,0,,0,,0,,89.21,6.7,4.6,4.1
+15-02-2025,06:00:00,BK100534,Successful,CUST2534,eBike,Location 50,Location 2,9.8,9,0,,0,,0,,30.77,2.9,4.7,3.2
+21-02-2025,17:00:00,BK100535,Successful,CUST2535,Prime Plus,Location 7,Location 26,8.5,12.4,0,,0,,0,,111.34,13.2,3.1,4.3
+06-02-2025,08:00:00,BK100536,Successful,CUST2536,Auto,Location 12,Location 24,3.1,10.5,0,,0,,0,,130.78,13.8,4.6,3.6
+04-02-2025,10:00:00,BK100537,Cancelled by Driver,CUST2537,Prime Sedan,Location 47,Location 24,,,0,,1,Personal & Car related issues,0,,,,,
+09-02-2025,16:00:00,BK100538,Cancelled by Customer,CUST2538,eBike,Location 41,Location 2,,,1,AC is not working,0,,0,,,,,
+12-02-2025,23:00:00,BK100539,Successful,CUST2539,Auto,Location 33,Location 18,6.9,13.7,0,,0,,0,,111.57,13.3,3.1,3.3
+19-02-2025,02:00:00,BK100540,Successful,CUST2540,Mini,Location 10,Location 48,4.5,9.2,0,,0,,0,,76.09,6.2,3.8,3.4
+09-02-2025,19:00:00,BK100541,Incomplete,CUST2541,eBike,Location 28,Location 38,,,0,,0,,1,Vehicle Breakdown,,,,
+20-02-2025,06:00:00,BK100542,Successful,CUST2542,Prime Sedan,Location 5,Location 2,5.8,10.2,0,,0,,0,,166.13,13.1,4.6,3.4
+06-02-2025,01:00:00,BK100543,Successful,CUST2543,Auto,Location 2,Location 40,8.9,5.9,0,,0,,0,,106.8,11.9,4.7,4.9
+17-02-2025,03:00:00,BK100544,Cancelled by Driver,CUST2544,Prime Sedan,Location 18,Location 14,,,0,,1,More than permitted people in there,0,,,,,
+23-02-2025,06:00:00,BK100545,Incomplete,CUST2545,Bike,Location 29,Location 22,,,0,,0,,1,Customer Demand,,,,
+03-02-2025,12:00:00,BK100546,Cancelled by Driver,CUST2546,Prime Sedan,Location 34,Location 7,,,0,,1,More than permitted people in there,0,,,,,
+10-02-2025,23:00:00,BK100547,Cancelled by Driver,CUST2547,Bike,Location 29,Location 34,,,0,,1,More than permitted people in there,0,,,,,
+06-02-2025,03:00:00,BK100548,Incomplete,CUST2548,eBike,Location 10,Location 45,,,0,,0,,1,Vehicle Breakdown,,,,
+09-02-2025,01:00:00,BK100549,Successful,CUST2549,Mini,Location 12,Location 41,5.2,5.9,0,,0,,0,,128.07,8.8,4,3.6
+11-02-2025,23:00:00,BK100550,Incomplete,CUST2550,Mini,Location 7,Location 29,,,0,,0,,1,Vehicle Breakdown,,,,
+16-02-2025,14:00:00,BK100551,Successful,CUST2551,Bike,Location 48,Location 12,7.6,6.5,0,,0,,0,,25.03,2.8,3.6,4.7
+10-02-2025,12:00:00,BK100552,Successful,CUST2552,Auto,Location 6,Location 41,5,10.9,0,,0,,0,,211.97,16.9,3.7,4.5
+21-02-2025,10:00:00,BK100553,Cancelled by Customer,CUST2553,Auto,Location 6,Location 28,,,1,AC is not working,0,,0,,,,,
+18-02-2025,19:00:00,BK100554,Cancelled by Driver,CUST2554,Prime Sedan,Location 25,Location 22,,,0,,1,Personal & Car related issues,0,,,,,
+22-02-2025,03:00:00,BK100555,Successful,CUST2555,eBike,Location 29,Location 37,7,13.2,0,,0,,0,,241.51,21.5,3.9,3.6
+19-02-2025,14:00:00,BK100556,Cancelled by Driver,CUST2556,Prime Sedan,Location 22,Location 41,,,0,,1,Customer related issue,0,,,,,
+19-02-2025,18:00:00,BK100557,Successful,CUST2557,Auto,Location 46,Location 33,7.5,10.9,0,,0,,0,,48.76,3.4,4.6,4.9
+21-02-2025,10:00:00,BK100558,Cancelled by Driver,CUST2558,Prime Plus,Location 48,Location 17,,,0,,1,The customer was coughing/sick,0,,,,,
+07-02-2025,12:00:00,BK100559,Successful,CUST2559,eBike,Location 50,Location 35,9.6,6.1,0,,0,,0,,24.7,2,4.1,4.3
+20-02-2025,18:00:00,BK100560,Successful,CUST2560,Prime Plus,Location 15,Location 6,7.2,12.6,0,,0,,0,,43.22,5.3,4.3,3.3
+09-02-2025,15:00:00,BK100561,Cancelled by Driver,CUST2561,Mini,Location 14,Location 26,,,0,,1,Customer related issue,0,,,,,
+18-02-2025,01:00:00,BK100562,Successful,CUST2562,Bike,Location 13,Location 3,7.3,12.7,0,,0,,0,,329.14,24.2,4.3,4.3
+15-02-2025,21:00:00,BK100563,Successful,CUST2563,Auto,Location 21,Location 5,6,12.4,0,,0,,0,,276.5,19.6,4.6,3.5
+16-02-2025,06:00:00,BK100564,Incomplete,CUST2564,Bike,Location 21,Location 14,,,0,,0,,1,Vehicle Breakdown,,,,
+14-02-2025,14:00:00,BK100565,Successful,CUST2565,Bike,Location 14,Location 8,2.6,14.3,0,,0,,0,,112.84,12.1,3.6,3.3
+18-02-2025,18:00:00,BK100566,Successful,CUST2566,Auto,Location 16,Location 28,4.6,6.9,0,,0,,0,,119.13,10.2,3.5,4.7
+10-02-2025,05:00:00,BK100567,Successful,CUST2567,Prime Sedan,Location 38,Location 15,2.1,6,0,,0,,0,,268.24,23.7,3.4,4.5
+06-02-2025,16:00:00,BK100568,Successful,CUST2568,Prime Sedan,Location 47,Location 31,8.5,14,0,,0,,0,,90.47,10.1,4.3,4.6
+26-02-2025,23:00:00,BK100569,Incomplete,CUST2569,Mini,Location 45,Location 23,,,0,,0,,1,Vehicle Breakdown,,,,
+25-02-2025,03:00:00,BK100570,Successful,CUST2570,Mini,Location 1,Location 23,9.6,8.7,0,,0,,0,,38.98,3.9,4.9,4.6
+22-02-2025,07:00:00,BK100571,Successful,CUST2571,Auto,Location 22,Location 13,5.6,10.6,0,,0,,0,,221.76,19.8,3.8,4.7
+03-02-2025,17:00:00,BK100572,Successful,CUST2572,Prime Sedan,Location 32,Location 20,5.5,10.3,0,,0,,0,,299.72,23.5,3.8,3.6
+22-02-2025,08:00:00,BK100573,Successful,CUST2573,eBike,Location 6,Location 38,5.5,8.8,0,,0,,0,,48.2,5.6,4.6,4.8
+05-02-2025,05:00:00,BK100574,Successful,CUST2574,Auto,Location 12,Location 5,9.4,9.7,0,,0,,0,,108.51,11,3.8,4.9
+18-02-2025,04:00:00,BK100575,Successful,CUST2575,Mini,Location 18,Location 30,8.7,6.4,0,,0,,0,,280.63,23.9,4.1,4.9
+12-02-2025,12:00:00,BK100576,Successful,CUST2576,Prime Plus,Location 11,Location 32,2.8,13.6,0,,0,,0,,327.19,23.5,4.2,4.2
+15-02-2025,14:00:00,BK100577,Cancelled by Driver,CUST2577,eBike,Location 39,Location 37,,,0,,1,More than permitted people in there,0,,,,,
+07-02-2025,00:00:00,BK100578,Successful,CUST2578,eBike,Location 7,Location 39,9.3,5.8,0,,0,,0,,281.37,25,4.1,4.8
+24-02-2025,19:00:00,BK100579,Successful,CUST2579,Prime Sedan,Location 41,Location 2,5.9,6.2,0,,0,,0,,328.2,23.7,3.5,4.2
+19-02-2025,07:00:00,BK100580,Successful,CUST2580,Prime Sedan,Location 39,Location 27,3.5,9.2,0,,0,,0,,270.02,21.6,3.2,3.6
+06-02-2025,00:00:00,BK100581,Cancelled by Customer,CUST2581,Auto,Location 9,Location 30,,,1,Change of plans,0,,0,,,,,
+09-02-2025,21:00:00,BK100582,Successful,CUST2582,Prime Plus,Location 37,Location 1,6.4,12.3,0,,0,,0,,59.16,4.5,4.1,3.4
+10-02-2025,16:00:00,BK100583,Successful,CUST2583,eBike,Location 38,Location 18,9.1,12,0,,0,,0,,97.17,7,5,3.5
+02-02-2025,03:00:00,BK100584,Cancelled by Customer,CUST2584,Prime Sedan,Location 43,Location 10,,,1,Change of plans,0,,0,,,,,
+08-02-2025,11:00:00,BK100585,Successful,CUST2585,eBike,Location 6,Location 26,3.5,14,0,,0,,0,,253.09,17,3.2,3.9
+02-02-2025,00:00:00,BK100586,Successful,CUST2586,eBike,Location 1,Location 5,8,7.5,0,,0,,0,,50.32,4.6,3.5,3.2
+23-02-2025,17:00:00,BK100587,Successful,CUST2587,Auto,Location 22,Location 36,4.8,14.9,0,,0,,0,,43.33,3.6,4,3.8
+03-02-2025,12:00:00,BK100588,Cancelled by Driver,CUST2588,Prime Plus,Location 38,Location 44,,,0,,1,The customer was coughing/sick,0,,,,,
+08-02-2025,05:00:00,BK100589,Cancelled by Driver,CUST2589,Mini,Location 22,Location 47,,,0,,1,More than permitted people in there,0,,,,,
+06-02-2025,02:00:00,BK100590,Successful,CUST2590,Auto,Location 8,Location 48,6.4,14.8,0,,0,,0,,189.74,13.8,3.1,4
+22-02-2025,07:00:00,BK100591,Successful,CUST2591,eBike,Location 21,Location 1,6.4,7.9,0,,0,,0,,32.84,4.1,3.4,4.6
+20-02-2025,15:00:00,BK100592,Successful,CUST2592,Prime Plus,Location 38,Location 4,3.6,12.7,0,,0,,0,,69.06,8.1,3.6,3.7
+05-02-2025,12:00:00,BK100593,Successful,CUST2593,Prime Sedan,Location 3,Location 48,9.4,10.3,0,,0,,0,,274.28,21.6,3.4,4.3
+15-02-2025,21:00:00,BK100594,Cancelled by Driver,CUST2594,Prime Plus,Location 25,Location 4,,,0,,1,The customer was coughing/sick,0,,,,,
+17-02-2025,02:00:00,BK100595,Successful,CUST2595,Mini,Location 34,Location 13,8,11.7,0,,0,,0,,61.75,5.5,4.3,4.8
+15-02-2025,03:00:00,BK100596,Cancelled by Driver,CUST2596,Prime Plus,Location 37,Location 23,,,0,,1,The customer was coughing/sick,0,,,,,
+25-02-2025,18:00:00,BK100597,Successful,CUST2597,Bike,Location 29,Location 28,8.8,10.4,0,,0,,0,,66.09,7.4,5,3.6
+20-02-2025,06:00:00,BK100598,Cancelled by Customer,CUST2598,Auto,Location 33,Location 23,,,1,Wrong Address,0,,0,,,,,
+25-02-2025,03:00:00,BK100599,Cancelled by Customer,CUST2599,Mini,Location 30,Location 40,,,1,Driver asked to cancel,0,,0,,,,,
+18-02-2025,04:00:00,BK100600,Cancelled by Customer,CUST2600,Mini,Location 19,Location 23,,,1,Change of plans,0,,0,,,,,
+02-02-2025,02:00:00,BK100601,Successful,CUST2601,Mini,Location 15,Location 24,8.4,6.6,0,,0,,0,,262.35,21.9,4.4,3.3
+07-02-2025,04:00:00,BK100602,Successful,CUST2602,Prime Plus,Location 36,Location 18,4.1,13.1,0,,0,,0,,141.49,14.5,3.9,4.8
+04-02-2025,08:00:00,BK100603,Cancelled by Driver,CUST2603,Auto,Location 35,Location 37,,,0,,1,The customer was coughing/sick,0,,,,,
+26-02-2025,14:00:00,BK100604,Successful,CUST2604,Bike,Location 2,Location 16,7.7,12.9,0,,0,,0,,151.66,15.8,4.3,3.7
+10-02-2025,00:00:00,BK100605,Cancelled by Driver,CUST2605,Prime Plus,Location 41,Location 46,,,0,,1,The customer was coughing/sick,0,,,,,
+04-02-2025,03:00:00,BK100606,Cancelled by Driver,CUST2606,Auto,Location 33,Location 15,,,0,,1,More than permitted people in there,0,,,,,
+01-02-2025,17:00:00,BK100607,Incomplete,CUST2607,eBike,Location 8,Location 43,,,0,,0,,1,Other Issue,,,,
+03-02-2025,18:00:00,BK100608,Successful,CUST2608,Prime Plus,Location 3,Location 28,9.7,6.6,0,,0,,0,,59.17,4.3,4.7,4.4
+13-02-2025,13:00:00,BK100609,Cancelled by Customer,CUST2609,Mini,Location 18,Location 39,,,1,Wrong Address,0,,0,,,,,
+26-02-2025,01:00:00,BK100610,Successful,CUST2610,Auto,Location 47,Location 2,9.1,6.9,0,,0,,0,,104.31,9.9,3.5,4.5
+22-02-2025,10:00:00,BK100611,Successful,CUST2611,eBike,Location 6,Location 3,4.2,12.8,0,,0,,0,,57.09,4.7,4.5,4.8
+16-02-2025,22:00:00,BK100612,Successful,CUST2612,Prime Plus,Location 33,Location 23,8.5,6.9,0,,0,,0,,88.7,8.2,3.9,4.3
+14-02-2025,09:00:00,BK100613,Cancelled by Customer,CUST2613,Bike,Location 32,Location 31,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+14-02-2025,14:00:00,BK100614,Successful,CUST2614,Bike,Location 17,Location 19,6,9,0,,0,,0,,132.8,12.5,4.2,4.1
+11-02-2025,02:00:00,BK100615,Cancelled by Customer,CUST2615,Auto,Location 7,Location 28,,,1,Wrong Address,0,,0,,,,,
+03-02-2025,15:00:00,BK100616,Incomplete,CUST2616,Bike,Location 49,Location 19,,,0,,0,,1,Customer Demand,,,,
+22-02-2025,18:00:00,BK100617,Successful,CUST2617,eBike,Location 44,Location 35,5.5,11.2,0,,0,,0,,191.57,15.4,4.8,4.4
+23-02-2025,22:00:00,BK100618,Successful,CUST2618,Prime Plus,Location 18,Location 43,6.1,10.6,0,,0,,0,,139.11,12.3,3.6,4.5
+11-02-2025,05:00:00,BK100619,Successful,CUST2619,Mini,Location 14,Location 50,7,9,0,,0,,0,,174.63,16.2,4.3,3.2
+04-02-2025,02:00:00,BK100620,Incomplete,CUST2620,Bike,Location 8,Location 12,,,0,,0,,1,Other Issue,,,,
+23-02-2025,12:00:00,BK100621,Successful,CUST2621,Prime Sedan,Location 29,Location 34,9,14.8,0,,0,,0,,150.94,10.9,4.9,3.1
+05-02-2025,02:00:00,BK100622,Successful,CUST2622,Bike,Location 9,Location 47,6.9,8.9,0,,0,,0,,25.08,2.8,3.5,4.6
+20-02-2025,20:00:00,BK100623,Successful,CUST2623,Prime Sedan,Location 46,Location 5,6.5,10.5,0,,0,,0,,38.5,3.5,4.5,4.1
+08-02-2025,03:00:00,BK100624,Successful,CUST2624,Prime Plus,Location 3,Location 45,9.3,6.1,0,,0,,0,,207.51,23.4,3.1,3.3
+13-02-2025,03:00:00,BK100625,Successful,CUST2625,Mini,Location 20,Location 45,3.7,5.8,0,,0,,0,,120.68,9.4,4.9,4
+12-02-2025,03:00:00,BK100626,Cancelled by Customer,CUST2626,Prime Plus,Location 47,Location 42,,,1,Wrong Address,0,,0,,,,,
+13-02-2025,11:00:00,BK100627,Successful,CUST2627,Prime Sedan,Location 13,Location 1,7.1,11.5,0,,0,,0,,43.8,3.2,3.5,4.7
+15-02-2025,11:00:00,BK100628,Successful,CUST2628,Mini,Location 50,Location 15,7.7,13,0,,0,,0,,286.92,23.3,4.7,3.5
+05-02-2025,05:00:00,BK100629,Successful,CUST2629,Mini,Location 12,Location 29,4.9,10.6,0,,0,,0,,39.75,4.7,4.9,3.2
+20-02-2025,01:00:00,BK100630,Successful,CUST2630,eBike,Location 2,Location 45,4.9,12.1,0,,0,,0,,100.11,8.2,4.8,3.4
+26-02-2025,17:00:00,BK100631,Successful,CUST2631,Mini,Location 35,Location 27,3.4,9.8,0,,0,,0,,60.83,6,4.4,4.9
+05-02-2025,08:00:00,BK100632,Incomplete,CUST2632,Mini,Location 10,Location 37,,,0,,0,,1,Other Issue,,,,
+24-02-2025,06:00:00,BK100633,Successful,CUST2633,Bike,Location 42,Location 9,6,14.5,0,,0,,0,,258.31,18,4.6,4.4
+19-02-2025,00:00:00,BK100634,Successful,CUST2634,eBike,Location 3,Location 3,6.6,14,0,,0,,0,,248.09,22.9,3.7,3.4
+06-02-2025,14:00:00,BK100635,Cancelled by Driver,CUST2635,Prime Plus,Location 27,Location 18,,,0,,1,The customer was coughing/sick,0,,,,,
+22-02-2025,11:00:00,BK100636,Cancelled by Driver,CUST2636,Prime Sedan,Location 24,Location 21,,,0,,1,More than permitted people in there,0,,,,,
+09-02-2025,12:00:00,BK100637,Cancelled by Customer,CUST2637,Auto,Location 49,Location 49,,,1,Wrong Address,0,,0,,,,,
+14-02-2025,20:00:00,BK100638,Successful,CUST2638,Mini,Location 23,Location 11,8.4,12.8,0,,0,,0,,41.1,3.2,4.5,4.6
+06-02-2025,11:00:00,BK100639,Successful,CUST2639,Mini,Location 23,Location 7,3.7,14.2,0,,0,,0,,77.97,8.2,3.6,4.1
+11-02-2025,00:00:00,BK100640,Successful,CUST2640,Auto,Location 8,Location 49,9.8,10.2,0,,0,,0,,98.51,8.3,4.2,3.9
+11-02-2025,14:00:00,BK100641,Successful,CUST2641,Bike,Location 25,Location 39,4.2,14.7,0,,0,,0,,281.74,19.7,3.7,3.7
+12-02-2025,08:00:00,BK100642,Cancelled by Driver,CUST2642,eBike,Location 6,Location 23,,,0,,1,Customer related issue,0,,,,,
+25-02-2025,12:00:00,BK100643,Incomplete,CUST2643,Prime Sedan,Location 31,Location 43,,,0,,0,,1,Other Issue,,,,
+18-02-2025,08:00:00,BK100644,Successful,CUST2644,Prime Sedan,Location 8,Location 27,8.2,8,0,,0,,0,,160.07,14.7,3.5,3.7
+12-02-2025,23:00:00,BK100645,Cancelled by Customer,CUST2645,Prime Sedan,Location 9,Location 25,,,1,AC is not working,0,,0,,,,,
+25-02-2025,12:00:00,BK100646,Successful,CUST2646,Auto,Location 14,Location 11,4.6,7.7,0,,0,,0,,239.21,17.6,3,4.1
+07-02-2025,05:00:00,BK100647,Cancelled by Customer,CUST2647,Bike,Location 15,Location 24,,,1,Change of plans,0,,0,,,,,
+14-02-2025,20:00:00,BK100648,Successful,CUST2648,eBike,Location 48,Location 9,3.6,7.8,0,,0,,0,,154.98,15.9,4.4,3.8
+24-02-2025,07:00:00,BK100649,Incomplete,CUST2649,Auto,Location 10,Location 26,,,0,,0,,1,Customer Demand,,,,
+26-02-2025,19:00:00,BK100650,Successful,CUST2650,Prime Sedan,Location 20,Location 35,7.2,5.9,0,,0,,0,,41.7,2.9,4.6,5
+10-02-2025,10:00:00,BK100651,Successful,CUST2651,Auto,Location 3,Location 14,4,8.5,0,,0,,0,,142.21,16.2,4,3.3
+11-02-2025,00:00:00,BK100652,Successful,CUST2652,Bike,Location 14,Location 42,8,12.2,0,,0,,0,,258.98,20.3,3.5,3.7
+08-02-2025,11:00:00,BK100653,Successful,CUST2653,Mini,Location 20,Location 14,6.4,5,0,,0,,0,,245.49,18.2,3.7,4.4
+17-02-2025,20:00:00,BK100654,Incomplete,CUST2654,Prime Sedan,Location 6,Location 42,,,0,,0,,1,Customer Demand,,,,
+16-02-2025,17:00:00,BK100655,Successful,CUST2655,eBike,Location 44,Location 15,7.7,13.1,0,,0,,0,,256.71,21.5,3,3.4
+11-02-2025,15:00:00,BK100656,Cancelled by Customer,CUST2656,Mini,Location 18,Location 41,,,1,Driver asked to cancel,0,,0,,,,,
+20-02-2025,01:00:00,BK100657,Successful,CUST2657,Prime Sedan,Location 6,Location 36,3,14.1,0,,0,,0,,225.19,20.9,4.3,4.4
+18-02-2025,17:00:00,BK100658,Incomplete,CUST2658,Auto,Location 41,Location 23,,,0,,0,,1,Other Issue,,,,
+06-02-2025,11:00:00,BK100659,Successful,CUST2659,Prime Plus,Location 34,Location 22,4.6,5.2,0,,0,,0,,81.61,7.3,4.8,3.6
+18-02-2025,21:00:00,BK100660,Cancelled by Driver,CUST2660,Prime Plus,Location 1,Location 5,,,0,,1,Customer related issue,0,,,,,
+17-02-2025,07:00:00,BK100661,Incomplete,CUST2661,Prime Sedan,Location 36,Location 25,,,0,,0,,1,Other Issue,,,,
+09-02-2025,10:00:00,BK100662,Cancelled by Customer,CUST2662,eBike,Location 44,Location 41,,,1,Change of plans,0,,0,,,,,
+26-02-2025,04:00:00,BK100663,Cancelled by Driver,CUST2663,Prime Plus,Location 20,Location 35,,,0,,1,More than permitted people in there,0,,,,,
+15-02-2025,23:00:00,BK100664,Cancelled by Driver,CUST2664,eBike,Location 43,Location 45,,,0,,1,Customer related issue,0,,,,,
+04-02-2025,00:00:00,BK100665,Successful,CUST2665,Mini,Location 18,Location 30,2.7,12.7,0,,0,,0,,91.72,10.6,3.5,3.5
+10-02-2025,16:00:00,BK100666,Successful,CUST2666,Auto,Location 8,Location 50,9.5,6.8,0,,0,,0,,153.88,11.6,3.5,4.4
+02-02-2025,18:00:00,BK100667,Successful,CUST2667,Prime Sedan,Location 12,Location 3,3.3,9.5,0,,0,,0,,208.67,15.3,3.7,5
+20-02-2025,18:00:00,BK100668,Cancelled by Driver,CUST2668,Mini,Location 6,Location 7,,,0,,1,The customer was coughing/sick,0,,,,,
+26-02-2025,09:00:00,BK100669,Successful,CUST2669,Prime Plus,Location 28,Location 2,9.9,8.4,0,,0,,0,,200.67,18.5,4.5,3.4
+13-02-2025,21:00:00,BK100670,Successful,CUST2670,Prime Plus,Location 44,Location 8,4.5,7,0,,0,,0,,122.6,11.7,4.8,3.9
+07-02-2025,15:00:00,BK100671,Successful,CUST2671,Auto,Location 50,Location 12,7.1,14.3,0,,0,,0,,26.93,3.3,3.5,3.2
+10-02-2025,15:00:00,BK100672,Successful,CUST2672,Prime Plus,Location 12,Location 4,6.6,5.4,0,,0,,0,,97.55,9.9,3.1,3.7
+10-02-2025,03:00:00,BK100673,Successful,CUST2673,Bike,Location 50,Location 11,8.3,9.3,0,,0,,0,,302.63,22.5,3.6,4.2
+05-02-2025,17:00:00,BK100674,Successful,CUST2674,Bike,Location 30,Location 12,3.8,9.8,0,,0,,0,,283.36,21.1,4.4,3.4
+03-02-2025,01:00:00,BK100675,Successful,CUST2675,eBike,Location 7,Location 35,2.2,13.8,0,,0,,0,,55.55,6,4.5,4.8
+23-02-2025,20:00:00,BK100676,Cancelled by Customer,CUST2676,Mini,Location 10,Location 33,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+20-02-2025,08:00:00,BK100677,Cancelled by Customer,CUST2677,eBike,Location 6,Location 18,,,1,AC is not working,0,,0,,,,,
+05-02-2025,02:00:00,BK100678,Cancelled by Customer,CUST2678,Prime Sedan,Location 35,Location 28,,,1,AC is not working,0,,0,,,,,
+12-02-2025,18:00:00,BK100679,Successful,CUST2679,Mini,Location 16,Location 6,6.4,9.8,0,,0,,0,,305.35,22.6,4.2,4.6
+17-02-2025,15:00:00,BK100680,Cancelled by Customer,CUST2680,Prime Sedan,Location 50,Location 29,,,1,Change of plans,0,,0,,,,,
+11-02-2025,05:00:00,BK100681,Cancelled by Driver,CUST2681,Auto,Location 17,Location 49,,,0,,1,Personal & Car related issues,0,,,,,
+21-02-2025,22:00:00,BK100682,Cancelled by Customer,CUST2682,Prime Plus,Location 24,Location 42,,,1,Change of plans,0,,0,,,,,
+05-02-2025,20:00:00,BK100683,Successful,CUST2683,Prime Sedan,Location 38,Location 17,4.5,6.8,0,,0,,0,,34.14,2.9,3.3,3.4
+05-02-2025,07:00:00,BK100684,Successful,CUST2684,eBike,Location 18,Location 25,5,9.5,0,,0,,0,,218,24.8,4.8,4.1
+19-02-2025,17:00:00,BK100685,Cancelled by Customer,CUST2685,Prime Plus,Location 17,Location 25,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+12-02-2025,01:00:00,BK100686,Successful,CUST2686,Mini,Location 13,Location 12,2.9,5.1,0,,0,,0,,206.82,15.1,4.7,4.7
+10-02-2025,03:00:00,BK100687,Cancelled by Driver,CUST2687,Auto,Location 44,Location 8,,,0,,1,More than permitted people in there,0,,,,,
+01-02-2025,07:00:00,BK100688,Successful,CUST2688,eBike,Location 25,Location 11,5.1,12.1,0,,0,,0,,145.32,10.8,5,3.8
+10-02-2025,13:00:00,BK100689,Successful,CUST2689,Mini,Location 15,Location 38,3.8,11.6,0,,0,,0,,277.83,19,3.8,4
+25-02-2025,14:00:00,BK100690,Successful,CUST2690,Prime Sedan,Location 3,Location 33,9.2,10.4,0,,0,,0,,153.73,16.9,4.4,4.9
+24-02-2025,22:00:00,BK100691,Successful,CUST2691,Prime Sedan,Location 1,Location 1,8,10.7,0,,0,,0,,41.02,2.9,5,4.3
+19-02-2025,08:00:00,BK100692,Cancelled by Customer,CUST2692,Prime Plus,Location 33,Location 9,,,1,Change of plans,0,,0,,,,,
+14-02-2025,05:00:00,BK100693,Successful,CUST2693,Prime Plus,Location 33,Location 16,9,12.7,0,,0,,0,,316.67,21.5,4,3.9
+24-02-2025,13:00:00,BK100694,Cancelled by Customer,CUST2694,Prime Sedan,Location 24,Location 43,,,1,Wrong Address,0,,0,,,,,
+06-02-2025,08:00:00,BK100695,Successful,CUST2695,Prime Plus,Location 19,Location 45,7.9,8,0,,0,,0,,285.35,21.4,3.3,4.8
+10-02-2025,21:00:00,BK100696,Successful,CUST2696,eBike,Location 49,Location 43,8.5,8.2,0,,0,,0,,75.63,5.3,3.9,3.7
+11-02-2025,05:00:00,BK100697,Successful,CUST2697,Prime Plus,Location 29,Location 42,7,14.9,0,,0,,0,,230.5,23.1,3.1,3.5
+12-02-2025,09:00:00,BK100698,Cancelled by Customer,CUST2698,Prime Plus,Location 12,Location 29,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+02-02-2025,12:00:00,BK100699,Successful,CUST2699,Auto,Location 41,Location 23,4.4,14.4,0,,0,,0,,192.48,13.5,5,4.3
+22-02-2025,01:00:00,BK100700,Successful,CUST2700,Prime Sedan,Location 4,Location 29,3.5,11.8,0,,0,,0,,183.77,16.7,3.1,3.7
+18-02-2025,12:00:00,BK100701,Successful,CUST2701,eBike,Location 7,Location 26,6.1,11.4,0,,0,,0,,187.37,14.6,3.3,4.3
+12-02-2025,23:00:00,BK100702,Successful,CUST2702,Prime Sedan,Location 33,Location 17,7.4,9.8,0,,0,,0,,69.15,6.2,3.5,4.9
+05-02-2025,09:00:00,BK100703,Incomplete,CUST2703,eBike,Location 48,Location 42,,,0,,0,,1,Vehicle Breakdown,,,,
+03-02-2025,19:00:00,BK100704,Successful,CUST2704,Auto,Location 27,Location 42,6.6,5.4,0,,0,,0,,323.83,24.4,3.1,3.2
+05-02-2025,05:00:00,BK100705,Successful,CUST2705,Bike,Location 1,Location 40,2.2,12.9,0,,0,,0,,63.77,6.2,4.2,4.3
+25-02-2025,21:00:00,BK100706,Incomplete,CUST2706,Bike,Location 33,Location 37,,,0,,0,,1,Other Issue,,,,
+07-02-2025,17:00:00,BK100707,Incomplete,CUST2707,Bike,Location 39,Location 5,,,0,,0,,1,Vehicle Breakdown,,,,
+16-02-2025,08:00:00,BK100708,Successful,CUST2708,Auto,Location 19,Location 41,6.4,14.9,0,,0,,0,,82.09,6.6,3.2,4
+20-02-2025,17:00:00,BK100709,Successful,CUST2709,Mini,Location 46,Location 44,9.1,14.4,0,,0,,0,,192.77,21.8,3.9,4.3
+15-02-2025,10:00:00,BK100710,Cancelled by Customer,CUST2710,Auto,Location 46,Location 49,,,1,Wrong Address,0,,0,,,,,
+27-02-2025,20:00:00,BK100711,Incomplete,CUST2711,Bike,Location 34,Location 34,,,0,,0,,1,Customer Demand,,,,
+02-02-2025,15:00:00,BK100712,Successful,CUST2712,Mini,Location 3,Location 31,9.1,7.5,0,,0,,0,,179.95,14.8,3.4,4
+22-02-2025,03:00:00,BK100713,Successful,CUST2713,Prime Plus,Location 17,Location 49,9.1,7.6,0,,0,,0,,197.69,23.1,3.7,4.8
+18-02-2025,09:00:00,BK100714,Successful,CUST2714,Bike,Location 46,Location 1,9.8,11.9,0,,0,,0,,135.85,10.4,4,3.4
+01-02-2025,00:00:00,BK100715,Cancelled by Driver,CUST2715,eBike,Location 28,Location 23,,,0,,1,Customer related issue,0,,,,,
+07-02-2025,01:00:00,BK100716,Cancelled by Customer,CUST2716,Bike,Location 9,Location 37,,,1,Change of plans,0,,0,,,,,
+07-02-2025,10:00:00,BK100717,Successful,CUST2717,Auto,Location 12,Location 15,4.4,7.6,0,,0,,0,,29.64,2.9,3.2,4
+15-02-2025,04:00:00,BK100718,Incomplete,CUST2718,Bike,Location 2,Location 18,,,0,,0,,1,Vehicle Breakdown,,,,
+13-02-2025,09:00:00,BK100719,Successful,CUST2719,Auto,Location 15,Location 45,8.3,6.8,0,,0,,0,,143.23,15.3,4.5,4.3
+24-02-2025,03:00:00,BK100720,Successful,CUST2720,Mini,Location 36,Location 12,2,14.1,0,,0,,0,,115.32,10.7,3.5,4.8
+01-02-2025,05:00:00,BK100721,Cancelled by Customer,CUST2721,Prime Sedan,Location 24,Location 45,,,1,AC is not working,0,,0,,,,,
+25-02-2025,11:00:00,BK100722,Successful,CUST2722,Bike,Location 24,Location 41,6.7,10.4,0,,0,,0,,167.69,16.5,4.7,4.5
+05-02-2025,17:00:00,BK100723,Cancelled by Driver,CUST2723,Mini,Location 17,Location 34,,,0,,1,More than permitted people in there,0,,,,,
+04-02-2025,00:00:00,BK100724,Incomplete,CUST2724,Prime Plus,Location 39,Location 12,,,0,,0,,1,Other Issue,,,,
+17-02-2025,20:00:00,BK100725,Successful,CUST2725,Bike,Location 40,Location 50,6.4,8.8,0,,0,,0,,206.36,22.9,4.8,3.6
+27-02-2025,22:00:00,BK100726,Successful,CUST2726,Auto,Location 44,Location 15,6.1,10.2,0,,0,,0,,44.32,4.6,3.7,4.1
+26-02-2025,12:00:00,BK100727,Cancelled by Customer,CUST2727,Mini,Location 7,Location 7,,,1,AC is not working,0,,0,,,,,
+23-02-2025,01:00:00,BK100728,Successful,CUST2728,Prime Plus,Location 37,Location 16,2.6,6.7,0,,0,,0,,173.02,21.2,3.8,3.4
+26-02-2025,06:00:00,BK100729,Successful,CUST2729,eBike,Location 21,Location 5,9.9,10.6,0,,0,,0,,312.94,22.1,3.4,4
+05-02-2025,16:00:00,BK100730,Cancelled by Customer,CUST2730,Prime Sedan,Location 14,Location 14,,,1,Change of plans,0,,0,,,,,
+14-02-2025,18:00:00,BK100731,Successful,CUST2731,eBike,Location 38,Location 40,3.3,11.3,0,,0,,0,,86.6,8.8,4.7,3.2
+08-02-2025,05:00:00,BK100732,Successful,CUST2732,Prime Plus,Location 17,Location 19,9.9,10.8,0,,0,,0,,154.39,11.4,3.1,5
+11-02-2025,16:00:00,BK100733,Incomplete,CUST2733,Mini,Location 18,Location 5,,,0,,0,,1,Customer Demand,,,,
+07-02-2025,15:00:00,BK100734,Incomplete,CUST2734,Prime Sedan,Location 15,Location 46,,,0,,0,,1,Vehicle Breakdown,,,,
+05-02-2025,00:00:00,BK100735,Successful,CUST2735,Prime Plus,Location 7,Location 32,8,5.2,0,,0,,0,,184.1,13.6,4.9,3
+14-02-2025,22:00:00,BK100736,Successful,CUST2736,Auto,Location 32,Location 19,3.1,12.4,0,,0,,0,,85.65,5.9,4,4.8
+26-02-2025,04:00:00,BK100737,Successful,CUST2737,Prime Plus,Location 4,Location 9,8.9,13.4,0,,0,,0,,167.47,16.6,4.9,3.1
+13-02-2025,01:00:00,BK100738,Successful,CUST2738,Mini,Location 25,Location 31,4,14.4,0,,0,,0,,62.81,4.2,3.5,4.8
+15-02-2025,03:00:00,BK100739,Successful,CUST2739,Auto,Location 14,Location 45,3.6,14,0,,0,,0,,98.91,9.7,3,3.1
+21-02-2025,07:00:00,BK100740,Cancelled by Driver,CUST2740,Prime Plus,Location 4,Location 5,,,0,,1,Personal & Car related issues,0,,,,,
+13-02-2025,00:00:00,BK100741,Successful,CUST2741,Prime Plus,Location 19,Location 9,3.7,6.1,0,,0,,0,,135.71,10.9,3.1,5
+04-02-2025,12:00:00,BK100742,Cancelled by Customer,CUST2742,Mini,Location 8,Location 23,,,1,Driver asked to cancel,0,,0,,,,,
+11-02-2025,22:00:00,BK100743,Cancelled by Driver,CUST2743,eBike,Location 44,Location 45,,,0,,1,More than permitted people in there,0,,,,,
+09-02-2025,15:00:00,BK100744,Successful,CUST2744,Mini,Location 49,Location 35,5.4,8.9,0,,0,,0,,113.9,9.2,3.3,3.8
+10-02-2025,23:00:00,BK100745,Successful,CUST2745,Mini,Location 32,Location 39,9.6,13.7,0,,0,,0,,65.95,5.6,3.3,3.5
+21-02-2025,16:00:00,BK100746,Cancelled by Driver,CUST2746,Mini,Location 34,Location 4,,,0,,1,Customer related issue,0,,,,,
+27-02-2025,05:00:00,BK100747,Successful,CUST2747,Bike,Location 30,Location 2,7.4,6.5,0,,0,,0,,199.56,20.6,4.7,3.6
+04-02-2025,04:00:00,BK100748,Cancelled by Customer,CUST2748,Mini,Location 39,Location 18,,,1,AC is not working,0,,0,,,,,
+02-02-2025,22:00:00,BK100749,Successful,CUST2749,Mini,Location 40,Location 11,3.7,6.9,0,,0,,0,,100.2,9.8,4.1,3.4
+14-02-2025,05:00:00,BK100750,Successful,CUST2750,Prime Plus,Location 48,Location 35,8.7,9.9,0,,0,,0,,229.61,23.1,3.6,4.2
+02-02-2025,13:00:00,BK100751,Cancelled by Driver,CUST2751,Mini,Location 35,Location 38,,,0,,1,Customer related issue,0,,,,,
+09-02-2025,10:00:00,BK100752,Cancelled by Customer,CUST2752,Auto,Location 41,Location 8,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+21-02-2025,18:00:00,BK100753,Successful,CUST2753,Prime Sedan,Location 44,Location 50,8.4,5.9,0,,0,,0,,183.74,13.4,3.1,4.8
+02-02-2025,01:00:00,BK100754,Cancelled by Customer,CUST2754,Mini,Location 16,Location 15,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+07-02-2025,11:00:00,BK100755,Successful,CUST2755,Bike,Location 22,Location 22,5.3,10.3,0,,0,,0,,318.37,23.4,3.8,3.9
+16-02-2025,04:00:00,BK100756,Successful,CUST2756,Bike,Location 42,Location 48,4.2,12.7,0,,0,,0,,121.57,11.4,4.4,3.2
+03-02-2025,23:00:00,BK100757,Successful,CUST2757,Prime Sedan,Location 49,Location 20,3.7,11.8,0,,0,,0,,161.32,15.4,3.4,4.5
+06-02-2025,10:00:00,BK100758,Cancelled by Customer,CUST2758,Auto,Location 8,Location 12,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+24-02-2025,15:00:00,BK100759,Cancelled by Driver,CUST2759,Auto,Location 39,Location 5,,,0,,1,Customer related issue,0,,,,,
+14-02-2025,21:00:00,BK100760,Successful,CUST2760,eBike,Location 11,Location 19,6.9,12.5,0,,0,,0,,149.61,10.9,4.6,3.7
+23-02-2025,13:00:00,BK100761,Successful,CUST2761,Bike,Location 8,Location 5,9.7,13.5,0,,0,,0,,66.06,5.3,4.7,3.3
+20-02-2025,00:00:00,BK100762,Cancelled by Customer,CUST2762,Auto,Location 11,Location 17,,,1,Wrong Address,0,,0,,,,,
+10-02-2025,14:00:00,BK100763,Successful,CUST2763,eBike,Location 47,Location 17,3.4,14.6,0,,0,,0,,137.37,13.8,4.3,4
+10-02-2025,07:00:00,BK100764,Cancelled by Customer,CUST2764,Bike,Location 37,Location 25,,,1,Driver asked to cancel,0,,0,,,,,
+07-02-2025,04:00:00,BK100765,Successful,CUST2765,Prime Sedan,Location 21,Location 29,9.6,10.9,0,,0,,0,,66.02,7.5,4.7,4
+17-02-2025,00:00:00,BK100766,Successful,CUST2766,Auto,Location 9,Location 15,9.8,8.4,0,,0,,0,,136.24,13.9,4.3,3.3
+23-02-2025,15:00:00,BK100767,Cancelled by Driver,CUST2767,Bike,Location 39,Location 7,,,0,,1,Customer related issue,0,,,,,
+21-02-2025,11:00:00,BK100768,Successful,CUST2768,Prime Sedan,Location 1,Location 18,7.9,7.6,0,,0,,0,,104.6,7.4,4.9,3.9
+21-02-2025,20:00:00,BK100769,Successful,CUST2769,Bike,Location 38,Location 18,3.7,5.1,0,,0,,0,,110.53,13,4.4,5
+24-02-2025,13:00:00,BK100770,Cancelled by Customer,CUST2770,Prime Sedan,Location 32,Location 38,,,1,Change of plans,0,,0,,,,,
+22-02-2025,12:00:00,BK100771,Successful,CUST2771,Auto,Location 13,Location 35,8.2,7.6,0,,0,,0,,58.11,5.3,4.7,3
+04-02-2025,20:00:00,BK100772,Successful,CUST2772,Prime Plus,Location 15,Location 7,6.8,6.1,0,,0,,0,,86.68,7.1,4.8,4.1
+23-02-2025,08:00:00,BK100773,Successful,CUST2773,Bike,Location 7,Location 14,9.4,8.5,0,,0,,0,,112.99,11.1,4.3,4.7
+16-02-2025,13:00:00,BK100774,Successful,CUST2774,Mini,Location 16,Location 50,4.9,11,0,,0,,0,,240.56,19.8,4.4,3.6
+09-02-2025,11:00:00,BK100775,Cancelled by Driver,CUST2775,Mini,Location 33,Location 8,,,0,,1,The customer was coughing/sick,0,,,,,
+16-02-2025,05:00:00,BK100776,Successful,CUST2776,Auto,Location 4,Location 37,5,10.6,0,,0,,0,,44.72,3,3.5,3.5
+11-02-2025,15:00:00,BK100777,Successful,CUST2777,eBike,Location 22,Location 48,7.9,9.8,0,,0,,0,,108.02,9.1,3.1,4.8
+14-02-2025,21:00:00,BK100778,Successful,CUST2778,Mini,Location 25,Location 20,9.9,7.9,0,,0,,0,,228.41,17.1,3.4,3.7
+07-02-2025,01:00:00,BK100779,Cancelled by Driver,CUST2779,Bike,Location 11,Location 31,,,0,,1,Personal & Car related issues,0,,,,,
+08-02-2025,09:00:00,BK100780,Cancelled by Customer,CUST2780,Auto,Location 4,Location 16,,,1,Change of plans,0,,0,,,,,
+03-02-2025,10:00:00,BK100781,Successful,CUST2781,Prime Sedan,Location 22,Location 45,5.9,10.2,0,,0,,0,,218.39,15.6,3.6,4.2
+10-02-2025,06:00:00,BK100782,Cancelled by Driver,CUST2782,Mini,Location 30,Location 49,,,0,,1,Personal & Car related issues,0,,,,,
+14-02-2025,23:00:00,BK100783,Incomplete,CUST2783,Prime Sedan,Location 50,Location 17,,,0,,0,,1,Vehicle Breakdown,,,,
+09-02-2025,13:00:00,BK100784,Cancelled by Driver,CUST2784,Auto,Location 1,Location 36,,,0,,1,Customer related issue,0,,,,,
+15-02-2025,07:00:00,BK100785,Successful,CUST2785,Auto,Location 50,Location 34,5.4,14.2,0,,0,,0,,98.01,6.6,4.6,4.3
+05-02-2025,12:00:00,BK100786,Cancelled by Driver,CUST2786,Bike,Location 17,Location 27,,,0,,1,More than permitted people in there,0,,,,,
+27-02-2025,00:00:00,BK100787,Cancelled by Customer,CUST2787,Auto,Location 37,Location 36,,,1,Change of plans,0,,0,,,,,
+07-02-2025,11:00:00,BK100788,Incomplete,CUST2788,Mini,Location 7,Location 37,,,0,,0,,1,Vehicle Breakdown,,,,
+17-02-2025,15:00:00,BK100789,Successful,CUST2789,Auto,Location 29,Location 36,4,12.4,0,,0,,0,,248.4,20.9,4.7,3.7
+08-02-2025,04:00:00,BK100790,Successful,CUST2790,Auto,Location 46,Location 7,7.3,14.7,0,,0,,0,,188.87,17.2,4.8,3.1
+10-02-2025,08:00:00,BK100791,Successful,CUST2791,Prime Plus,Location 28,Location 1,9.7,11.8,0,,0,,0,,119.76,10.7,3.7,4.7
+09-02-2025,15:00:00,BK100792,Successful,CUST2792,Prime Plus,Location 49,Location 45,8,12.5,0,,0,,0,,100.34,8.8,4,3.6
+02-02-2025,04:00:00,BK100793,Successful,CUST2793,Auto,Location 37,Location 4,8.1,13.9,0,,0,,0,,21.62,2.4,4,3.5
+06-02-2025,08:00:00,BK100794,Successful,CUST2794,Mini,Location 44,Location 15,7.9,9.6,0,,0,,0,,207.96,22.6,4.6,4.7
+06-02-2025,01:00:00,BK100795,Cancelled by Customer,CUST2795,Prime Sedan,Location 47,Location 21,,,1,Wrong Address,0,,0,,,,,
+26-02-2025,06:00:00,BK100796,Successful,CUST2796,Mini,Location 35,Location 41,5,9,0,,0,,0,,99.82,10.2,4.4,3.9
+13-02-2025,11:00:00,BK100797,Cancelled by Customer,CUST2797,eBike,Location 12,Location 24,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+27-02-2025,04:00:00,BK100798,Successful,CUST2798,Mini,Location 50,Location 21,6.2,14.5,0,,0,,0,,144.56,16.1,3.1,3.3
+01-02-2025,16:00:00,BK100799,Cancelled by Customer,CUST2799,Auto,Location 28,Location 48,,,1,Change of plans,0,,0,,,,,
+27-02-2025,07:00:00,BK100800,Incomplete,CUST2800,Prime Plus,Location 5,Location 22,,,0,,0,,1,Customer Demand,,,,
+21-02-2025,08:00:00,BK100801,Successful,CUST2801,Mini,Location 49,Location 43,8.6,6.5,0,,0,,0,,187.49,12.5,4.5,3.2
+17-02-2025,21:00:00,BK100802,Cancelled by Customer,CUST2802,eBike,Location 45,Location 47,,,1,Wrong Address,0,,0,,,,,
+08-02-2025,11:00:00,BK100803,Incomplete,CUST2803,Prime Sedan,Location 31,Location 44,,,0,,0,,1,Vehicle Breakdown,,,,
+01-02-2025,21:00:00,BK100804,Incomplete,CUST2804,eBike,Location 9,Location 41,,,0,,0,,1,Vehicle Breakdown,,,,
+09-02-2025,17:00:00,BK100805,Successful,CUST2805,Bike,Location 39,Location 16,7.6,14.8,0,,0,,0,,303.51,23.9,4.1,3.2
+23-02-2025,18:00:00,BK100806,Cancelled by Driver,CUST2806,eBike,Location 11,Location 21,,,0,,1,More than permitted people in there,0,,,,,
+20-02-2025,07:00:00,BK100807,Successful,CUST2807,Auto,Location 17,Location 37,2,10.3,0,,0,,0,,108.47,9.9,4.6,3.2
+21-02-2025,13:00:00,BK100808,Cancelled by Customer,CUST2808,Prime Sedan,Location 31,Location 29,,,1,Wrong Address,0,,0,,,,,
+21-02-2025,04:00:00,BK100809,Successful,CUST2809,Prime Sedan,Location 43,Location 42,9.8,14.6,0,,0,,0,,61.01,5.9,4.2,4.3
+06-02-2025,18:00:00,BK100810,Cancelled by Driver,CUST2810,eBike,Location 42,Location 30,,,0,,1,The customer was coughing/sick,0,,,,,
+01-02-2025,08:00:00,BK100811,Incomplete,CUST2811,Prime Sedan,Location 10,Location 41,,,0,,0,,1,Vehicle Breakdown,,,,
+27-02-2025,10:00:00,BK100812,Successful,CUST2812,Auto,Location 24,Location 8,6,12.6,0,,0,,0,,105.28,12.1,4.9,3.2
+07-02-2025,22:00:00,BK100813,Successful,CUST2813,Bike,Location 43,Location 46,4.5,9.5,0,,0,,0,,20.81,2,4,3.1
+02-02-2025,01:00:00,BK100814,Cancelled by Driver,CUST2814,Prime Plus,Location 18,Location 47,,,0,,1,More than permitted people in there,0,,,,,
+19-02-2025,18:00:00,BK100815,Successful,CUST2815,Mini,Location 6,Location 3,5.5,10.4,0,,0,,0,,110.8,9.9,4.1,4.2
+07-02-2025,09:00:00,BK100816,Cancelled by Driver,CUST2816,Auto,Location 28,Location 26,,,0,,1,More than permitted people in there,0,,,,,
+07-02-2025,00:00:00,BK100817,Cancelled by Customer,CUST2817,Bike,Location 28,Location 34,,,1,AC is not working,0,,0,,,,,
+12-02-2025,20:00:00,BK100818,Cancelled by Customer,CUST2818,Prime Sedan,Location 1,Location 5,,,1,Wrong Address,0,,0,,,,,
+27-02-2025,06:00:00,BK100819,Successful,CUST2819,Mini,Location 1,Location 44,8.1,14.2,0,,0,,0,,248.33,18,4.2,3
+21-02-2025,01:00:00,BK100820,Cancelled by Driver,CUST2820,Auto,Location 43,Location 29,,,0,,1,Personal & Car related issues,0,,,,,
+17-02-2025,09:00:00,BK100821,Cancelled by Driver,CUST2821,Bike,Location 47,Location 9,,,0,,1,Customer related issue,0,,,,,
+22-02-2025,23:00:00,BK100822,Successful,CUST2822,Bike,Location 29,Location 34,7.1,9,0,,0,,0,,94.03,9.2,3.8,4.1
+04-02-2025,18:00:00,BK100823,Cancelled by Driver,CUST2823,Bike,Location 33,Location 39,,,0,,1,The customer was coughing/sick,0,,,,,
+25-02-2025,03:00:00,BK100824,Successful,CUST2824,Prime Plus,Location 49,Location 43,9.6,10.4,0,,0,,0,,63.93,4.4,3.9,3.5
+07-02-2025,23:00:00,BK100825,Successful,CUST2825,Auto,Location 5,Location 38,3,7.7,0,,0,,0,,41.55,4.5,3.5,4.6
+10-02-2025,15:00:00,BK100826,Cancelled by Customer,CUST2826,eBike,Location 4,Location 14,,,1,Change of plans,0,,0,,,,,
+10-02-2025,08:00:00,BK100827,Successful,CUST2827,Prime Plus,Location 20,Location 14,6,14.4,0,,0,,0,,123.53,10.5,3.8,3.9
+05-02-2025,00:00:00,BK100828,Successful,CUST2828,Prime Plus,Location 10,Location 49,5.7,7.6,0,,0,,0,,67.44,8.4,4.9,3.3
+08-02-2025,21:00:00,BK100829,Successful,CUST2829,Auto,Location 40,Location 45,9.8,7.4,0,,0,,0,,288.01,21.6,3.8,3.3
+19-02-2025,05:00:00,BK100830,Successful,CUST2830,Prime Sedan,Location 47,Location 40,7.4,14.4,0,,0,,0,,302.34,22.9,3.1,4.9
+17-02-2025,11:00:00,BK100831,Successful,CUST2831,eBike,Location 44,Location 44,6.1,7,0,,0,,0,,61.67,4.3,4.6,3.2
+19-02-2025,22:00:00,BK100832,Successful,CUST2832,Prime Plus,Location 36,Location 48,9,14,0,,0,,0,,59.55,4.5,3.2,4
+09-02-2025,02:00:00,BK100833,Cancelled by Customer,CUST2833,Prime Plus,Location 24,Location 24,,,1,Wrong Address,0,,0,,,,,
+02-02-2025,18:00:00,BK100834,Cancelled by Driver,CUST2834,Prime Sedan,Location 20,Location 28,,,0,,1,More than permitted people in there,0,,,,,
+11-02-2025,21:00:00,BK100835,Cancelled by Customer,CUST2835,Bike,Location 12,Location 1,,,1,Driver asked to cancel,0,,0,,,,,
+27-02-2025,08:00:00,BK100836,Successful,CUST2836,eBike,Location 15,Location 34,3.7,12.6,0,,0,,0,,103.43,12.8,4.7,3.6
+18-02-2025,02:00:00,BK100837,Cancelled by Customer,CUST2837,Mini,Location 5,Location 26,,,1,AC is not working,0,,0,,,,,
+14-02-2025,06:00:00,BK100838,Successful,CUST2838,Prime Plus,Location 2,Location 36,9.7,7.3,0,,0,,0,,201.07,19.9,3.5,3.9
+13-02-2025,03:00:00,BK100839,Successful,CUST2839,Auto,Location 36,Location 42,2.8,6.4,0,,0,,0,,99,11.9,3.7,4
+25-02-2025,08:00:00,BK100840,Successful,CUST2840,Prime Plus,Location 39,Location 45,4.7,7.5,0,,0,,0,,235.09,21.6,3.2,3.6
+22-02-2025,08:00:00,BK100841,Successful,CUST2841,Prime Sedan,Location 43,Location 19,5.8,10,0,,0,,0,,266.64,22.5,4.8,3.8
+18-02-2025,16:00:00,BK100842,Cancelled by Customer,CUST2842,Bike,Location 49,Location 42,,,1,Driver asked to cancel,0,,0,,,,,
+13-02-2025,02:00:00,BK100843,Successful,CUST2843,Prime Sedan,Location 8,Location 31,9.6,14,0,,0,,0,,40.46,3.1,4,4
+20-02-2025,08:00:00,BK100844,Successful,CUST2844,Auto,Location 31,Location 16,3,5.3,0,,0,,0,,217.36,17.3,4.9,4.9
+04-02-2025,14:00:00,BK100845,Cancelled by Customer,CUST2845,Mini,Location 37,Location 7,,,1,AC is not working,0,,0,,,,,
+09-02-2025,10:00:00,BK100846,Incomplete,CUST2846,Prime Plus,Location 29,Location 19,,,0,,0,,1,Other Issue,,,,
+27-02-2025,08:00:00,BK100847,Successful,CUST2847,eBike,Location 49,Location 24,9,10.2,0,,0,,0,,266.02,19.2,3.7,4.2
+24-02-2025,04:00:00,BK100848,Successful,CUST2848,Bike,Location 5,Location 15,5.3,10.7,0,,0,,0,,289.39,19.3,3.1,3.9
+22-02-2025,08:00:00,BK100849,Successful,CUST2849,Auto,Location 45,Location 22,9.4,7.4,0,,0,,0,,245.78,22.6,4.3,3.5
+08-02-2025,16:00:00,BK100850,Successful,CUST2850,Auto,Location 48,Location 25,8.6,8.8,0,,0,,0,,62.95,4.9,4.5,4
+19-02-2025,00:00:00,BK100851,Cancelled by Driver,CUST2851,Prime Plus,Location 18,Location 41,,,0,,1,The customer was coughing/sick,0,,,,,
+15-02-2025,21:00:00,BK100852,Successful,CUST2852,Auto,Location 34,Location 32,5.6,11.6,0,,0,,0,,175.6,18.9,4.2,4.1
+23-02-2025,14:00:00,BK100853,Incomplete,CUST2853,Prime Plus,Location 14,Location 10,,,0,,0,,1,Other Issue,,,,
+20-02-2025,14:00:00,BK100854,Successful,CUST2854,Bike,Location 2,Location 43,5.5,10.5,0,,0,,0,,272.14,21.1,4.7,4.9
+27-02-2025,00:00:00,BK100855,Successful,CUST2855,Prime Sedan,Location 20,Location 46,6.8,10.3,0,,0,,0,,106.24,7.1,3.6,3.7
+09-02-2025,00:00:00,BK100856,Successful,CUST2856,Auto,Location 33,Location 7,7,12.1,0,,0,,0,,52.16,4.2,4.1,4.4
+03-02-2025,16:00:00,BK100857,Successful,CUST2857,Prime Plus,Location 18,Location 48,8,10.2,0,,0,,0,,106.36,9.2,3.4,3.8
+20-02-2025,06:00:00,BK100858,Cancelled by Driver,CUST2858,Prime Sedan,Location 45,Location 16,,,0,,1,More than permitted people in there,0,,,,,
+05-02-2025,03:00:00,BK100859,Cancelled by Customer,CUST2859,Auto,Location 12,Location 21,,,1,AC is not working,0,,0,,,,,
+13-02-2025,23:00:00,BK100860,Successful,CUST2860,Prime Plus,Location 36,Location 20,9.2,12.4,0,,0,,0,,261.9,21.3,3.8,3.7
+14-02-2025,07:00:00,BK100861,Cancelled by Customer,CUST2861,Mini,Location 20,Location 22,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+05-02-2025,16:00:00,BK100862,Successful,CUST2862,Auto,Location 27,Location 32,5,8.8,0,,0,,0,,69.81,8.2,4.6,5
+03-02-2025,18:00:00,BK100863,Successful,CUST2863,Bike,Location 12,Location 33,9.3,6.9,0,,0,,0,,176.57,16.4,4.2,3.4
+23-02-2025,10:00:00,BK100864,Successful,CUST2864,Prime Plus,Location 4,Location 1,6.3,5.2,0,,0,,0,,112.09,10.7,3.4,4
+27-02-2025,01:00:00,BK100865,Successful,CUST2865,Prime Plus,Location 41,Location 31,3.1,14.1,0,,0,,0,,187.94,23.3,4.8,4.1
+16-02-2025,13:00:00,BK100866,Incomplete,CUST2866,Prime Sedan,Location 1,Location 50,,,0,,0,,1,Customer Demand,,,,
+20-02-2025,06:00:00,BK100867,Successful,CUST2867,Mini,Location 15,Location 46,7.5,14.6,0,,0,,0,,177.21,19.3,4.9,4.9
+05-02-2025,13:00:00,BK100868,Incomplete,CUST2868,Mini,Location 6,Location 8,,,0,,0,,1,Vehicle Breakdown,,,,
+21-02-2025,12:00:00,BK100869,Successful,CUST2869,eBike,Location 18,Location 43,2.7,14.4,0,,0,,0,,229.83,23.8,4.1,3.4
+26-02-2025,05:00:00,BK100870,Successful,CUST2870,Bike,Location 35,Location 14,2.2,11.7,0,,0,,0,,131.08,11.4,3.5,4.7
+10-02-2025,13:00:00,BK100871,Successful,CUST2871,Prime Sedan,Location 27,Location 39,5.5,11.8,0,,0,,0,,78.47,8.1,4,4.4
+15-02-2025,08:00:00,BK100872,Successful,CUST2872,Mini,Location 50,Location 43,9.9,7.2,0,,0,,0,,77.27,5.6,4,4.2
+22-02-2025,10:00:00,BK100873,Cancelled by Customer,CUST2873,Mini,Location 25,Location 22,,,1,AC is not working,0,,0,,,,,
+25-02-2025,01:00:00,BK100874,Successful,CUST2874,Bike,Location 31,Location 1,8.8,8.4,0,,0,,0,,115.44,8.1,4.5,3.8
+23-02-2025,18:00:00,BK100875,Cancelled by Customer,CUST2875,Auto,Location 4,Location 39,,,1,Wrong Address,0,,0,,,,,
+11-02-2025,18:00:00,BK100876,Successful,CUST2876,Bike,Location 5,Location 10,7.1,5.6,0,,0,,0,,160.55,15.4,4.1,3.8
+03-02-2025,07:00:00,BK100877,Incomplete,CUST2877,Prime Sedan,Location 44,Location 17,,,0,,0,,1,Vehicle Breakdown,,,,
+24-02-2025,21:00:00,BK100878,Successful,CUST2878,eBike,Location 9,Location 39,3.8,10.3,0,,0,,0,,48.43,5.4,3.2,4.3
+17-02-2025,21:00:00,BK100879,Successful,CUST2879,Auto,Location 26,Location 2,6.4,7.4,0,,0,,0,,24.11,2.1,4.6,4.1
+15-02-2025,14:00:00,BK100880,Successful,CUST2880,Auto,Location 6,Location 37,8.8,10.1,0,,0,,0,,242.08,24.6,4.1,4.7
+06-02-2025,10:00:00,BK100881,Cancelled by Customer,CUST2881,Prime Plus,Location 37,Location 15,,,1,Change of plans,0,,0,,,,,
+09-02-2025,11:00:00,BK100882,Successful,CUST2882,eBike,Location 26,Location 39,8.4,5.4,0,,0,,0,,60.58,6.1,4.9,3.6
+24-02-2025,19:00:00,BK100883,Successful,CUST2883,Mini,Location 38,Location 18,9.9,9.5,0,,0,,0,,286.19,24.6,4.5,4.4
+08-02-2025,06:00:00,BK100884,Successful,CUST2884,eBike,Location 13,Location 6,2.6,8.6,0,,0,,0,,179.71,15.4,5,3.3
+09-02-2025,17:00:00,BK100885,Cancelled by Customer,CUST2885,Prime Plus,Location 13,Location 22,,,1,Driver asked to cancel,0,,0,,,,,
+22-02-2025,21:00:00,BK100886,Successful,CUST2886,Auto,Location 1,Location 30,2.9,10.5,0,,0,,0,,232.7,22.9,4.8,4.9
+24-02-2025,20:00:00,BK100887,Cancelled by Driver,CUST2887,eBike,Location 39,Location 35,,,0,,1,Customer related issue,0,,,,,
+22-02-2025,02:00:00,BK100888,Successful,CUST2888,Prime Plus,Location 50,Location 45,5.1,10.3,0,,0,,0,,76.64,6.5,3.3,3.3
+25-02-2025,16:00:00,BK100889,Cancelled by Customer,CUST2889,Mini,Location 3,Location 4,,,1,Driver asked to cancel,0,,0,,,,,
+04-02-2025,05:00:00,BK100890,Successful,CUST2890,Bike,Location 11,Location 49,3.6,12.4,0,,0,,0,,216.69,22.2,4,4.4
+17-02-2025,23:00:00,BK100891,Successful,CUST2891,Bike,Location 32,Location 7,3.1,5.1,0,,0,,0,,17.46,2,3.2,3.6
+09-02-2025,03:00:00,BK100892,Successful,CUST2892,Bike,Location 43,Location 14,8.6,11,0,,0,,0,,79.64,7.4,3,4.1
+16-02-2025,13:00:00,BK100893,Cancelled by Customer,CUST2893,Bike,Location 31,Location 32,,,1,Driver asked to cancel,0,,0,,,,,
+11-02-2025,18:00:00,BK100894,Cancelled by Customer,CUST2894,Mini,Location 34,Location 50,,,1,AC is not working,0,,0,,,,,
+07-02-2025,20:00:00,BK100895,Successful,CUST2895,Auto,Location 4,Location 29,6.3,10.4,0,,0,,0,,113.13,8.3,3.9,4.8
+07-02-2025,03:00:00,BK100896,Cancelled by Customer,CUST2896,Auto,Location 26,Location 33,,,1,Driver asked to cancel,0,,0,,,,,
+03-02-2025,07:00:00,BK100897,Successful,CUST2897,Bike,Location 16,Location 6,2.3,14,0,,0,,0,,58.4,7,3.6,4.9
+11-02-2025,11:00:00,BK100898,Successful,CUST2898,Bike,Location 16,Location 36,9.1,8,0,,0,,0,,85.24,6.9,4.4,4
+10-02-2025,05:00:00,BK100899,Successful,CUST2899,eBike,Location 31,Location 48,3.5,5.4,0,,0,,0,,268.87,21,4.9,4.1
+01-02-2025,05:00:00,BK100900,Cancelled by Customer,CUST2900,Bike,Location 37,Location 36,,,1,Wrong Address,0,,0,,,,,
+25-02-2025,03:00:00,BK100901,Successful,CUST2901,eBike,Location 49,Location 31,6.1,5.9,0,,0,,0,,42.76,3.4,3.5,4.8
+02-02-2025,15:00:00,BK100902,Cancelled by Customer,CUST2902,Prime Sedan,Location 3,Location 48,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+19-02-2025,07:00:00,BK100903,Incomplete,CUST2903,Prime Plus,Location 35,Location 16,,,0,,0,,1,Customer Demand,,,,
+07-02-2025,15:00:00,BK100904,Successful,CUST2904,Prime Sedan,Location 5,Location 5,8.1,6.9,0,,0,,0,,67.49,7.2,3.1,4.3
+24-02-2025,14:00:00,BK100905,Successful,CUST2905,Prime Sedan,Location 30,Location 32,8.6,7.9,0,,0,,0,,206.35,16.6,3.5,3.2
+23-02-2025,09:00:00,BK100906,Successful,CUST2906,Bike,Location 44,Location 1,5.2,13.4,0,,0,,0,,25.94,2.5,3.5,3.5
+03-02-2025,09:00:00,BK100907,Successful,CUST2907,eBike,Location 18,Location 27,5.7,11.3,0,,0,,0,,87.14,6.3,4.6,5
+24-02-2025,16:00:00,BK100908,Successful,CUST2908,eBike,Location 49,Location 4,6.4,8.8,0,,0,,0,,229.48,18.3,4.2,3.9
+04-02-2025,06:00:00,BK100909,Cancelled by Customer,CUST2909,Bike,Location 1,Location 48,,,1,Wrong Address,0,,0,,,,,
+21-02-2025,22:00:00,BK100910,Incomplete,CUST2910,Bike,Location 22,Location 14,,,0,,0,,1,Other Issue,,,,
+15-02-2025,14:00:00,BK100911,Successful,CUST2911,Mini,Location 39,Location 25,6.8,7.6,0,,0,,0,,237.2,24.8,3.9,3.2
+17-02-2025,08:00:00,BK100912,Successful,CUST2912,eBike,Location 43,Location 47,8.7,7.5,0,,0,,0,,183.66,13.5,3.6,5
+21-02-2025,20:00:00,BK100913,Successful,CUST2913,Prime Sedan,Location 44,Location 20,4,8.3,0,,0,,0,,201.2,22.9,4,4.5
+11-02-2025,15:00:00,BK100914,Successful,CUST2914,Auto,Location 6,Location 47,3.8,10.2,0,,0,,0,,23.74,2.1,3.1,4.8
+26-02-2025,21:00:00,BK100915,Cancelled by Driver,CUST2915,Prime Plus,Location 13,Location 30,,,0,,1,More than permitted people in there,0,,,,,
+19-02-2025,07:00:00,BK100916,Cancelled by Driver,CUST2916,Mini,Location 8,Location 40,,,0,,1,The customer was coughing/sick,0,,,,,
+20-02-2025,13:00:00,BK100917,Successful,CUST2917,Prime Sedan,Location 24,Location 12,3,13.5,0,,0,,0,,288.97,20.7,4.2,4.4
+10-02-2025,05:00:00,BK100918,Cancelled by Driver,CUST2918,Bike,Location 43,Location 41,,,0,,1,Personal & Car related issues,0,,,,,
+03-02-2025,14:00:00,BK100919,Successful,CUST2919,Bike,Location 15,Location 23,5.5,13.6,0,,0,,0,,197.99,24.6,4,3.6
+17-02-2025,05:00:00,BK100920,Successful,CUST2920,Mini,Location 36,Location 20,2.3,12.4,0,,0,,0,,62.44,4.8,3.4,4
+20-02-2025,22:00:00,BK100921,Cancelled by Driver,CUST2921,Auto,Location 26,Location 26,,,0,,1,More than permitted people in there,0,,,,,
+05-02-2025,09:00:00,BK100922,Successful,CUST2922,Prime Plus,Location 12,Location 43,2.7,13,0,,0,,0,,49.46,4.3,3.2,5
+13-02-2025,12:00:00,BK100923,Cancelled by Customer,CUST2923,Auto,Location 29,Location 20,,,1,Driver asked to cancel,0,,0,,,,,
+02-02-2025,23:00:00,BK100924,Successful,CUST2924,Bike,Location 43,Location 47,5.4,12.4,0,,0,,0,,88.54,7,4.3,4.4
+10-02-2025,07:00:00,BK100925,Cancelled by Driver,CUST2925,eBike,Location 7,Location 31,,,0,,1,More than permitted people in there,0,,,,,
+26-02-2025,03:00:00,BK100926,Incomplete,CUST2926,Mini,Location 3,Location 49,,,0,,0,,1,Vehicle Breakdown,,,,
+18-02-2025,03:00:00,BK100927,Successful,CUST2927,Mini,Location 23,Location 41,7.6,11.5,0,,0,,0,,143.64,15.3,4.4,3.8
+24-02-2025,23:00:00,BK100928,Successful,CUST2928,Prime Sedan,Location 10,Location 39,8.7,11.2,0,,0,,0,,243.12,17,5,3.4
+22-02-2025,07:00:00,BK100929,Successful,CUST2929,Bike,Location 20,Location 32,3.4,8.7,0,,0,,0,,107.95,12.7,4.2,4.9
+23-02-2025,00:00:00,BK100930,Successful,CUST2930,eBike,Location 7,Location 17,4.8,5,0,,0,,0,,156.03,13.9,3.6,4.5
+11-02-2025,02:00:00,BK100931,Successful,CUST2931,Mini,Location 1,Location 18,2.8,13.9,0,,0,,0,,351.37,24.8,3.4,4.7
+23-02-2025,03:00:00,BK100932,Successful,CUST2932,Bike,Location 23,Location 43,8.2,13.7,0,,0,,0,,120.91,10,3.7,3.2
+01-02-2025,01:00:00,BK100933,Successful,CUST2933,Prime Sedan,Location 49,Location 25,9.5,14,0,,0,,0,,113.16,12.4,3.2,4
+04-02-2025,04:00:00,BK100934,Successful,CUST2934,eBike,Location 35,Location 24,9.4,12.3,0,,0,,0,,21.4,2.1,3.7,3.9
+16-02-2025,07:00:00,BK100935,Successful,CUST2935,Auto,Location 20,Location 41,5.6,11.4,0,,0,,0,,175.13,17.3,3.1,3.4
+25-02-2025,09:00:00,BK100936,Successful,CUST2936,Prime Plus,Location 42,Location 3,3.2,6,0,,0,,0,,330.73,23,4.1,4.1
+03-02-2025,01:00:00,BK100937,Cancelled by Driver,CUST2937,Bike,Location 47,Location 15,,,0,,1,Personal & Car related issues,0,,,,,
+26-02-2025,03:00:00,BK100938,Successful,CUST2938,Prime Sedan,Location 27,Location 39,4.5,9.9,0,,0,,0,,127.77,15.5,3.4,3.5
+14-02-2025,10:00:00,BK100939,Cancelled by Customer,CUST2939,Prime Plus,Location 5,Location 14,,,1,Wrong Address,0,,0,,,,,
+03-02-2025,23:00:00,BK100940,Successful,CUST2940,Prime Sedan,Location 11,Location 6,5.6,14,0,,0,,0,,212.49,24.1,4.2,3.5
+24-02-2025,15:00:00,BK100941,Successful,CUST2941,Prime Sedan,Location 25,Location 34,8.3,6.7,0,,0,,0,,129,9.8,3.1,3.1
+23-02-2025,13:00:00,BK100942,Successful,CUST2942,Auto,Location 19,Location 45,7.5,11.2,0,,0,,0,,58.7,5.7,3.8,3.5
+27-02-2025,21:00:00,BK100943,Successful,CUST2943,eBike,Location 48,Location 40,4.3,11.4,0,,0,,0,,154.68,16,4.9,4.9
+21-02-2025,19:00:00,BK100944,Successful,CUST2944,Mini,Location 6,Location 36,7.6,10.2,0,,0,,0,,103.2,7.3,4.9,4.9
+03-02-2025,00:00:00,BK100945,Successful,CUST2945,Prime Sedan,Location 49,Location 33,8,10,0,,0,,0,,247.44,19.1,5,3.3
+08-02-2025,23:00:00,BK100946,Cancelled by Customer,CUST2946,eBike,Location 26,Location 22,,,1,Change of plans,0,,0,,,,,
+11-02-2025,07:00:00,BK100947,Successful,CUST2947,eBike,Location 7,Location 21,3,13.5,0,,0,,0,,219.53,23.6,4.6,4.2
+13-02-2025,06:00:00,BK100948,Successful,CUST2948,Bike,Location 38,Location 44,2.8,9.3,0,,0,,0,,247.6,20.4,4.4,3.3
+07-02-2025,08:00:00,BK100949,Successful,CUST2949,Prime Plus,Location 12,Location 34,5.6,9,0,,0,,0,,114.76,11.4,3.6,4.7
+09-02-2025,16:00:00,BK100950,Successful,CUST2950,eBike,Location 27,Location 23,9.9,5,0,,0,,0,,240.42,22.3,4.6,5
+01-02-2025,12:00:00,BK100951,Successful,CUST2951,Prime Sedan,Location 22,Location 41,5.5,12.7,0,,0,,0,,251.46,17.7,3.8,4.8
+20-02-2025,16:00:00,BK100952,Successful,CUST2952,Mini,Location 19,Location 26,9.6,11.6,0,,0,,0,,175.15,14.4,3.7,4.3
+01-02-2025,01:00:00,BK100953,Successful,CUST2953,Prime Sedan,Location 27,Location 28,5.9,6.2,0,,0,,0,,259.91,20.6,4,3.6
+14-02-2025,03:00:00,BK100954,Successful,CUST2954,Auto,Location 43,Location 5,6.8,14.9,0,,0,,0,,285.39,20.9,4.5,4.4
+16-02-2025,01:00:00,BK100955,Incomplete,CUST2955,Bike,Location 8,Location 36,,,0,,0,,1,Vehicle Breakdown,,,,
+11-02-2025,13:00:00,BK100956,Cancelled by Driver,CUST2956,Bike,Location 1,Location 19,,,0,,1,The customer was coughing/sick,0,,,,,
+04-02-2025,06:00:00,BK100957,Cancelled by Customer,CUST2957,Bike,Location 40,Location 13,,,1,Wrong Address,0,,0,,,,,
+08-02-2025,00:00:00,BK100958,Cancelled by Driver,CUST2958,Prime Sedan,Location 8,Location 31,,,0,,1,Customer related issue,0,,,,,
+05-02-2025,07:00:00,BK100959,Cancelled by Driver,CUST2959,Prime Plus,Location 27,Location 22,,,0,,1,Personal & Car related issues,0,,,,,
+23-02-2025,23:00:00,BK100960,Successful,CUST2960,Mini,Location 14,Location 16,3,9.7,0,,0,,0,,350.09,25,5,3.4
+16-02-2025,20:00:00,BK100961,Successful,CUST2961,Auto,Location 18,Location 46,5.1,14.4,0,,0,,0,,36.72,3.1,4.9,3.1
+22-02-2025,12:00:00,BK100962,Successful,CUST2962,Auto,Location 27,Location 50,9.2,14.5,0,,0,,0,,111.73,8.1,3.9,3.9
+24-02-2025,14:00:00,BK100963,Successful,CUST2963,Prime Plus,Location 20,Location 8,9.6,5.3,0,,0,,0,,21.93,2.1,4.5,3.7
+01-02-2025,23:00:00,BK100964,Successful,CUST2964,Mini,Location 37,Location 11,6,10.8,0,,0,,0,,92.47,9.5,4.1,4.7
+10-02-2025,16:00:00,BK100965,Cancelled by Driver,CUST2965,Auto,Location 15,Location 8,,,0,,1,The customer was coughing/sick,0,,,,,
+03-02-2025,00:00:00,BK100966,Successful,CUST2966,Prime Plus,Location 47,Location 13,4.6,12.4,0,,0,,0,,113.22,13.8,3.2,3.8
+20-02-2025,14:00:00,BK100967,Successful,CUST2967,Prime Sedan,Location 22,Location 37,5,11.5,0,,0,,0,,70.84,5.4,3.4,3.3
+26-02-2025,04:00:00,BK100968,Successful,CUST2968,Auto,Location 19,Location 6,5.1,5.8,0,,0,,0,,25.25,2.1,4.7,3.4
+24-02-2025,10:00:00,BK100969,Successful,CUST2969,Prime Sedan,Location 50,Location 45,3.7,6.2,0,,0,,0,,204.54,14.7,4.7,4.9
+18-02-2025,13:00:00,BK100970,Cancelled by Customer,CUST2970,Prime Sedan,Location 32,Location 36,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+23-02-2025,11:00:00,BK100971,Cancelled by Customer,CUST2971,Bike,Location 17,Location 48,,,1,Change of plans,0,,0,,,,,
+22-02-2025,12:00:00,BK100972,Successful,CUST2972,Bike,Location 10,Location 13,3.2,11.9,0,,0,,0,,20.85,2.6,4.5,4
+20-02-2025,11:00:00,BK100973,Successful,CUST2973,Auto,Location 3,Location 47,6.4,5.4,0,,0,,0,,151.35,11.7,3.1,3.1
+09-02-2025,13:00:00,BK100974,Successful,CUST2974,eBike,Location 1,Location 6,9.8,12,0,,0,,0,,293.78,22.9,4.8,3
+08-02-2025,19:00:00,BK100975,Cancelled by Customer,CUST2975,Prime Sedan,Location 37,Location 45,,,1,Driver asked to cancel,0,,0,,,,,
+10-02-2025,05:00:00,BK100976,Successful,CUST2976,Bike,Location 19,Location 20,5.7,10.6,0,,0,,0,,35.57,2.6,4.5,4
+07-02-2025,18:00:00,BK100977,Successful,CUST2977,Prime Plus,Location 33,Location 7,5.5,9.2,0,,0,,0,,121.84,12.8,3.5,3.8
+01-02-2025,13:00:00,BK100978,Successful,CUST2978,Bike,Location 23,Location 20,8,9.1,0,,0,,0,,344.62,23,4.1,3.2
+14-02-2025,01:00:00,BK100979,Successful,CUST2979,Prime Sedan,Location 41,Location 29,5.4,5.3,0,,0,,0,,238.73,16.7,4.9,3.6
+24-02-2025,18:00:00,BK100980,Incomplete,CUST2980,Prime Sedan,Location 35,Location 2,,,0,,0,,1,Vehicle Breakdown,,,,
+04-02-2025,08:00:00,BK100981,Successful,CUST2981,Prime Plus,Location 40,Location 32,5.9,9.1,0,,0,,0,,94.57,9.2,4.5,3.3
+04-02-2025,11:00:00,BK100982,Incomplete,CUST2982,eBike,Location 25,Location 2,,,0,,0,,1,Vehicle Breakdown,,,,
+12-02-2025,00:00:00,BK100983,Cancelled by Customer,CUST2983,Bike,Location 24,Location 1,,,1,Change of plans,0,,0,,,,,
+17-02-2025,21:00:00,BK100984,Successful,CUST2984,Auto,Location 36,Location 30,6.6,6.9,0,,0,,0,,242.12,17.6,3.4,4.1
+02-02-2025,15:00:00,BK100985,Successful,CUST2985,Bike,Location 47,Location 39,2.9,13.1,0,,0,,0,,180.37,17.9,3.1,4.7
+20-02-2025,20:00:00,BK100986,Cancelled by Driver,CUST2986,Bike,Location 19,Location 20,,,0,,1,Personal & Car related issues,0,,,,,
+26-02-2025,20:00:00,BK100987,Cancelled by Customer,CUST2987,Mini,Location 15,Location 30,,,1,Driver is not moving towards pickup location,0,,0,,,,,
+13-02-2025,01:00:00,BK100988,Cancelled by Driver,CUST2988,eBike,Location 28,Location 16,,,0,,1,The customer was coughing/sick,0,,,,,
+10-02-2025,04:00:00,BK100989,Cancelled by Customer,CUST2989,Mini,Location 26,Location 40,,,1,Change of plans,0,,0,,,,,
+11-02-2025,23:00:00,BK100990,Successful,CUST2990,Prime Plus,Location 48,Location 23,2.1,14.3,0,,0,,0,,173.8,12.5,4.6,4.8
+19-02-2025,17:00:00,BK100991,Successful,CUST2991,Bike,Location 12,Location 12,5.2,13.2,0,,0,,0,,229.82,21.6,4.8,4.7
+24-02-2025,07:00:00,BK100992,Successful,CUST2992,Auto,Location 5,Location 23,3.1,7.5,0,,0,,0,,227.89,20.1,3.6,3.4
+01-02-2025,12:00:00,BK100993,Cancelled by Driver,CUST2993,Bike,Location 10,Location 38,,,0,,1,Customer related issue,0,,,,,
+26-02-2025,04:00:00,BK100994,Successful,CUST2994,Mini,Location 23,Location 4,8.6,9.4,0,,0,,0,,277.12,22.9,4,3.5
+24-02-2025,06:00:00,BK100995,Successful,CUST2995,Mini,Location 24,Location 4,2.6,10.8,0,,0,,0,,81.02,8.2,3.9,4.4
+10-02-2025,17:00:00,BK100996,Cancelled by Customer,CUST2996,Mini,Location 14,Location 31,,,1,AC is not working,0,,0,,,,,
+13-02-2025,05:00:00,BK100997,Successful,CUST2997,Mini,Location 39,Location 35,4.6,10.7,0,,0,,0,,73.37,4.9,4.1,3.2
+24-02-2025,20:00:00,BK100998,Successful,CUST2998,Bike,Location 24,Location 16,2.3,5.7,0,,0,,0,,170.63,19,3.5,3.5
+19-02-2025,09:00:00,BK100999,Cancelled by Customer,CUST2999,Bike,Location 20,Location 7,,,1,Driver asked to cancel,0,,0,,,,,

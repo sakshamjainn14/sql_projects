@@ -1,0 +1,7 @@
+Payment_ID,Booking_ID,Customer_ID,Payment_Method,Amount,Status
+5001,BK001,CUST2786,UPI,320.5,Success
+5002,BK002,CUST2790,Credit Card,450.0,Success
+5003,BK003,CUST2567,Cash,280.75,Failed
+5004,BK004,CUST2673,Wallet,500.0,Success
+5005,BK005,CUST2789,Debit Card,350.25,Pending
+5006,BK006,CUST2945,UPI,220.0,Success
